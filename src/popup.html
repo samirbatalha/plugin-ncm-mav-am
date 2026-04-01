@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NCM MVA</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Consulta NCM &mdash; MVA</h1>
+      <p class="subtitle">Lei n&ordm; 6.108/2022 &mdash; ICMS-ST Amazonas</p>
+    </header>
+
+    <div class="search-row">
+      <input
+        type="text"
+        id="ncmInput"
+        placeholder="Ex: 8471.30.12 ou 84713012"
+        maxlength="12"
+        autocomplete="off"
+        spellcheck="false"
+      >
+      <button id="searchBtn">Buscar</button>
+    </div>
+
+    <div id="result" class="result hidden"></div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

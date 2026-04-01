@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "NCM MVA - Lei 6.108/2022 AM",
+  "version": "1.0.0",
+  "description": "Consulta o percentual de MVA (ICMS-ST) de um código NCM conforme a Lei nº 6.108/2022 do Amazonas.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
