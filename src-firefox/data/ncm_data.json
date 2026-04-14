@@ -1,0 +1,3387 @@
+[
+  {
+    "ncm": "2204",
+    "mva": "50",
+    "descricao": "Bebidas alcoólicas, exceto cerveja e chope"
+  },
+  {
+    "ncm": "2205",
+    "mva": "50",
+    "descricao": "Bebidas alcoólicas, exceto cerveja e chope"
+  },
+  {
+    "ncm": "2206",
+    "mva": "50",
+    "descricao": "Bebidas alcoólicas, exceto cerveja e chope"
+  },
+  {
+    "ncm": "2207",
+    "mva": "50",
+    "descricao": "Bebidas alcoólicas, exceto cerveja e chope"
+  },
+  {
+    "ncm": "2208",
+    "mva": "50",
+    "descricao": "Bebidas alcoólicas, exceto cerveja e chope"
+  },
+  {
+    "ncm": "0901",
+    "mva": "30",
+    "descricao": "Café"
+  },
+  {
+    "ncm": "3815.12.10",
+    "mva": "71.78",
+    "descricao": "Catalisadores em colmeia cerâmica ou metálica para conversão catalítica de gases de escape de veículos e outros catalisadores"
+  },
+  {
+    "ncm": "3815.12.90",
+    "mva": "71.78",
+    "descricao": "Catalisadores em colmeia cerâmica ou metálica para conversão catalítica de gases de escape de veículos e outros catalisadores"
+  },
+  {
+    "ncm": "3917",
+    "mva": "71.78",
+    "descricao": "Tubos e seus acessórios (por exemplo, juntas, cotovelos, flanges, uniões), de plásticos"
+  },
+  {
+    "ncm": "3918.10.00",
+    "mva": "71.78",
+    "descricao": "Protetores de caçamba"
+  },
+  {
+    "ncm": "3923.30.00",
+    "mva": "71.78",
+    "descricao": "Reservatórios de óleo"
+  },
+  {
+    "ncm": "3926.30.00",
+    "mva": "71.78",
+    "descricao": "Frisos, decalques, molduras e acabamentos"
+  },
+  {
+    "ncm": "4010.3",
+    "mva": "71.78",
+    "descricao": "Correias de transmissão de borracha vulcanizada, de matérias têxteis, mesmo impregnadas, revestidas ou recobertas, de plástico, ou estratificadas com plástico ou reforçadas com metal ou com outras matérias"
+  },
+  {
+    "ncm": "5910.00.00",
+    "mva": "71.78",
+    "descricao": "Correias de transmissão de borracha vulcanizada, de matérias têxteis, mesmo impregnadas, revestidas ou recobertas, de plástico, ou estratificadas com plástico ou reforçadas com metal ou com outras matérias"
+  },
+  {
+    "ncm": "4016.93.00",
+    "mva": "71.78",
+    "descricao": "Juntas, gaxetas e outros elementos com função semelhante de vedação"
+  },
+  {
+    "ncm": "4823.90.9",
+    "mva": "71.78",
+    "descricao": "Juntas, gaxetas e outros elementos com função semelhante de vedação"
+  },
+  {
+    "ncm": "4016.10.10",
+    "mva": "71.78",
+    "descricao": "Partes de veículos automóveis, tratores e máquinas autopropulsadas"
+  },
+  {
+    "ncm": "4016.99.90",
+    "mva": "71.78",
+    "descricao": "Tapetes, revestimentos, mesmo confeccionados, batentes, buchas e coxins"
+  },
+  {
+    "ncm": "5705.00.00",
+    "mva": "71.78",
+    "descricao": "Tapetes, revestimentos, mesmo confeccionados, batentes, buchas e coxins"
+  },
+  {
+    "ncm": "5903.90.00",
+    "mva": "71.78",
+    "descricao": "Tecidos impregnados, revestidos, recobertos ou estratificados, com plástico"
+  },
+  {
+    "ncm": "5909.00.00",
+    "mva": "71.78",
+    "descricao": "Mangueiras e tubos semelhantes, de matérias têxteis, mesmo com reforço ou acessórios de outras matérias"
+  },
+  {
+    "ncm": "6306.1",
+    "mva": "71.78",
+    "descricao": "Encerados e toldos"
+  },
+  {
+    "ncm": "6506.10.00",
+    "mva": "71.78",
+    "descricao": "Capacetes e artefatos de uso semelhante, de proteção, para uso em motocicletas, incluídos ciclomotores"
+  },
+  {
+    "ncm": "6813",
+    "mva": "71.78",
+    "descricao": "Guarnições de fricção (por exemplo, placas, rolos, tiras, segmentos, discos, anéis, pastilhas), não montadas, para freios, embreagens ou qualquer outro mecanismo de fricção, à base de amianto, de outras substâncias minerais ou de celulose, mesmo combinadas com têxteis ou outras matérias"
+  },
+  {
+    "ncm": "7007.11.00",
+    "mva": "71.78",
+    "descricao": "Vidros de dimensões e formatos que permitam aplicação automotiva"
+  },
+  {
+    "ncm": "7007.21.00",
+    "mva": "71.78",
+    "descricao": "Vidros de dimensões e formatos que permitam aplicação automotiva"
+  },
+  {
+    "ncm": "7009.10.00",
+    "mva": "71.78",
+    "descricao": "Espelhos retrovisores"
+  },
+  {
+    "ncm": "7014.00.00",
+    "mva": "71.78",
+    "descricao": "Lentes de faróis, lanternas e outros utensílios"
+  },
+  {
+    "ncm": "7311.00.00",
+    "mva": "71.78",
+    "descricao": "Cilindro de aço para GNV (gás natural veicular)"
+  },
+  {
+    "ncm": "7320",
+    "mva": "71.78",
+    "descricao": "Molas e folhas de molas, de ferro ou aço"
+  },
+  {
+    "ncm": "7325",
+    "mva": "71.78",
+    "descricao": "Obras moldadas, de ferro fundido, ferro ou aço, exceto as do código 7325.91.00"
+  },
+  {
+    "ncm": "7806.00",
+    "mva": "71.78",
+    "descricao": "Peso de chumbo para balanceamento de roda"
+  },
+  {
+    "ncm": "8007.00.90",
+    "mva": "71.78",
+    "descricao": "Peso para balanceamento de roda e outros utensílios de estanho"
+  },
+  {
+    "ncm": "8301.20",
+    "mva": "71.78",
+    "descricao": "Fechaduras e partes de fechaduras"
+  },
+  {
+    "ncm": "8301.60",
+    "mva": "71.78",
+    "descricao": "Fechaduras e partes de fechaduras"
+  },
+  {
+    "ncm": "8301.70",
+    "mva": "71.78",
+    "descricao": "Chaves apresentadas isoladamente"
+  },
+  {
+    "ncm": "8302.10.00",
+    "mva": "71.78",
+    "descricao": "Dobradiças, guarnições, ferragens e artigos semelhantes de metais comuns"
+  },
+  {
+    "ncm": "8302.30.00",
+    "mva": "71.78",
+    "descricao": "Dobradiças, guarnições, ferragens e artigos semelhantes de metais comuns"
+  },
+  {
+    "ncm": "8310.00",
+    "mva": "71.78",
+    "descricao": "Triângulo de segurança"
+  },
+  {
+    "ncm": "8407.3",
+    "mva": "71.78",
+    "descricao": "Motores de pistão alternativo dos tipos utilizados para propulsão de veículos do Capítulo 87"
+  },
+  {
+    "ncm": "8408.20",
+    "mva": "71.78",
+    "descricao": "Motores dos tipos utilizados para propulsão de veículos automotores"
+  },
+  {
+    "ncm": "8409.9",
+    "mva": "71.78",
+    "descricao": "Partes reconhecíveis como exclusiva ou principalmente destinadas aos motores das posições 8407 ou 8408"
+  },
+  {
+    "ncm": "8412.2",
+    "mva": "71.78",
+    "descricao": "Motores hidráulicos"
+  },
+  {
+    "ncm": "8413.30",
+    "mva": "71.78",
+    "descricao": "Bombas para combustíveis, lubrificantes ou líquidos de arrefecimento, próprias para motores de ignição por centelha ou por compressão"
+  },
+  {
+    "ncm": "8414.10.00",
+    "mva": "71.78",
+    "descricao": "Bombas de vácuo"
+  },
+  {
+    "ncm": "8414.80.1",
+    "mva": "71.78",
+    "descricao": "Compressores e turbo compressores de ar"
+  },
+  {
+    "ncm": "8414.80.2",
+    "mva": "71.78",
+    "descricao": "Compressores e turbo compressores de ar"
+  },
+  {
+    "ncm": "8413.91.90",
+    "mva": "71.78",
+    "descricao": "Partes das bombas, compressores e turbocompressores dos CEST 01.032.00, 01.033.00 e 01.034.00"
+  },
+  {
+    "ncm": "8414.90.10",
+    "mva": "71.78",
+    "descricao": "Partes das bombas, compressores e turbocompressores dos CEST 01.032.00, 01.033.00 e 01.034.00"
+  },
+  {
+    "ncm": "8414.90.3",
+    "mva": "71.78",
+    "descricao": "Partes das bombas, compressores e turbocompressores dos CEST 01.032.00, 01.033.00 e 01.034.00"
+  },
+  {
+    "ncm": "8414.90.39",
+    "mva": "71.78",
+    "descricao": "Partes das bombas, compressores e turbocompressores dos CEST 01.032.00, 01.033.00 e 01.034.00"
+  },
+  {
+    "ncm": "8415.20",
+    "mva": "71.78",
+    "descricao": "Máquinas e aparelhos de ar condicionado"
+  },
+  {
+    "ncm": "8421.23.00",
+    "mva": "71.78",
+    "descricao": "Aparelhos para filtrar óleos minerais nos motores de ignição por centelha ou por compressão"
+  },
+  {
+    "ncm": "8421.29.90",
+    "mva": "71.78",
+    "descricao": "Filtros a vácuo"
+  },
+  {
+    "ncm": "8421.9",
+    "mva": "71.78",
+    "descricao": "Partes dos aparelhos para filtrar ou depurar líquidos ou gases"
+  },
+  {
+    "ncm": "8424.10.00",
+    "mva": "71.78",
+    "descricao": "Extintores, mesmo carregados"
+  },
+  {
+    "ncm": "8421.31.00",
+    "mva": "71.78",
+    "descricao": "Filtros de entrada de ar para motores de ignição por centelha ou por compressão"
+  },
+  {
+    "ncm": "8421.32.00",
+    "mva": "71.78",
+    "descricao": "Depuradores por conversão catalítica de gases de escape"
+  },
+  {
+    "ncm": "8425.42.00",
+    "mva": "71.78",
+    "descricao": "Macacos"
+  },
+  {
+    "ncm": "8431.10.10",
+    "mva": "71.78",
+    "descricao": "Partes para macacos do CEST 01.043.00"
+  },
+  {
+    "ncm": "8431.49.2",
+    "mva": "71.78",
+    "descricao": "Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas agrícolas ou rodoviárias"
+  },
+  {
+    "ncm": "8433.90.90",
+    "mva": "71.78",
+    "descricao": "Partes reconhecíveis como exclusiva ou principalmente destinadas às máquinas agrícolas ou rodoviárias"
+  },
+  {
+    "ncm": "8481.10.00",
+    "mva": "71.78",
+    "descricao": "Válvulas redutoras de pressão"
+  },
+  {
+    "ncm": "8481.2",
+    "mva": "71.78",
+    "descricao": "Válvulas para transmissão óleo- hidráulicas ou pneumáticas"
+  },
+  {
+    "ncm": "8481.80.92",
+    "mva": "71.78",
+    "descricao": "Válvulas solenoides"
+  },
+  {
+    "ncm": "8482",
+    "mva": "71.78",
+    "descricao": "Rolamentos"
+  },
+  {
+    "ncm": "8483",
+    "mva": "71.78",
+    "descricao": "Árvores de transmissão (incluídas as árvores de \"cames\" e virabrequins) e manivelas; mancais e \"bronzes\"; engrenagens e rodas de fricção; eixos de esferas ou de roletes; redutores, multiplicadores, caixas de transmissão e variadores de velocidade, incluídos os conversores de torque; volantes e polias, incluídas as polias para cadernais; embreagens e dispositivos de acoplamento, incluídas as juntas de articulação"
+  },
+  {
+    "ncm": "8484",
+    "mva": "71.78",
+    "descricao": "Juntas metaloplásticas; jogos ou sortidos de juntas de composições diferentes, apresentados em bolsas, envelopes ou embalagens semelhantes; juntas de vedação mecânicas (selos mecânicos)"
+  },
+  {
+    "ncm": "8505.20",
+    "mva": "71.78",
+    "descricao": "Acoplamentos, embreagens, variadores de velocidade e freios, eletromagnéticos"
+  },
+  {
+    "ncm": "8507.10",
+    "mva": "71.78",
+    "descricao": "Acumuladores elétricos de chumbo, do tipo utilizado para o arranque dos motores de pistão, exceto os classificados no CEST 01.053.01"
+  },
+  {
+    "ncm": "8507.10.10",
+    "mva": "71.78",
+    "descricao": "Acumuladores elétricos de chumbo, do tipo utilizado para o arranque dos motores de pistão e de capacidade inferior ou igual a 20 Ah e tensão inferior ou igual a 12 V"
+  },
+  {
+    "ncm": "8511",
+    "mva": "71.78",
+    "descricao": "Aparelhos e dispositivos elétricos de ignição ou de arranque para motores de ignição por centelha ou por compressão (por exemplo, magnetos, dínamos- magnetos, bobinas de ignição, velas de ignição ou de aquecimento, motores de arranque); geradores (dínamos e alternadores, por exemplo) e conjuntores- disjuntores utilizados com estes motores"
+  },
+  {
+    "ncm": "8512.20",
+    "mva": "71.78",
+    "descricao": "Aparelhos elétricos de iluminação ou de sinalização (exceto os da posição 8539), limpadores de para-brisas, degeladores e desembaçadores (desembaciadores) elétricos e suas partes"
+  },
+  {
+    "ncm": "8512.40",
+    "mva": "71.78",
+    "descricao": "Aparelhos elétricos de iluminação ou de sinalização (exceto os da posição 8539), limpadores de para-brisas, degeladores e desembaçadores (desembaciadores) elétricos e suas partes"
+  },
+  {
+    "ncm": "8512.90.00",
+    "mva": "71.78",
+    "descricao": "Aparelhos elétricos de iluminação ou de sinalização (exceto os da posição 8539), limpadores de para-brisas, degeladores e desembaçadores (desembaciadores) elétricos e suas partes"
+  },
+  {
+    "ncm": "8517.14.10",
+    "mva": "71.78",
+    "descricao": "Telefones móveis do tipo dos utilizados em veículos automóveis"
+  },
+  {
+    "ncm": "8518",
+    "mva": "71.78",
+    "descricao": "Alto-falantes, amplificadores elétricos de audiofrequência e partes"
+  },
+  {
+    "ncm": "8518.50.00",
+    "mva": "71.78",
+    "descricao": "Aparelhos elétricos de amplificação de som para veículos automotores"
+  },
+  {
+    "ncm": "8519.81",
+    "mva": "71.78",
+    "descricao": "Aparelhos de reprodução de som"
+  },
+  {
+    "ncm": "8525.50.1",
+    "mva": "71.78",
+    "descricao": "Aparelhos transmissores (emissores) de radiotelefonia ou radiotelegrafia (rádio receptor/transmissor)"
+  },
+  {
+    "ncm": "8525.60.10",
+    "mva": "71.78",
+    "descricao": "Aparelhos transmissores (emissores) de radiotelefonia ou radiotelegrafia (rádio receptor/transmissor)"
+  },
+  {
+    "ncm": "8527.21.00",
+    "mva": "71.78",
+    "descricao": "Aparelhos receptores de radiodifusão que só funcionem com fonte externa de energia combinados com um aparelho de gravação ou de reprodução de som, do tipo utilizado em veículos automóveis"
+  },
+  {
+    "ncm": "8527.29.00",
+    "mva": "71.78",
+    "descricao": "Outros aparelhos receptores de radiodifusão que só funcionem com fonte externa de energia, do tipo utilizado em veículos automóveis"
+  },
+  {
+    "ncm": "8521.90.90",
+    "mva": "71.78",
+    "descricao": "Outros aparelhos videofônicos de gravação ou de reprodução, mesmo incorporando um receptor de sinais videofônicos, dos tipos utilizados exclusivamente em veículos automotores"
+  },
+  {
+    "ncm": "8529.10",
+    "mva": "71.78",
+    "descricao": "Antenas"
+  },
+  {
+    "ncm": "8534.00",
+    "mva": "71.78",
+    "descricao": "Circuitos impressos"
+  },
+  {
+    "ncm": "8535.30",
+    "mva": "71.78",
+    "descricao": "Interruptores e seccionadores e comutadores"
+  },
+  {
+    "ncm": "8536.50",
+    "mva": "71.78",
+    "descricao": "Interruptores e seccionadores e comutadores"
+  },
+  {
+    "ncm": "8536.10.00",
+    "mva": "71.78",
+    "descricao": "Fusíveis e corta-circuitos de fusíveis"
+  },
+  {
+    "ncm": "8536.20.00",
+    "mva": "71.78",
+    "descricao": "Disjuntores"
+  },
+  {
+    "ncm": "8536.4",
+    "mva": "71.78",
+    "descricao": "Relés"
+  },
+  {
+    "ncm": "8538",
+    "mva": "71.78",
+    "descricao": "Partes reconhecíveis como exclusivas ou principalmente destinados aos aparelhos dos CEST 01.065.00, 01.066.00, 01.067.00 e 01.068.00"
+  },
+  {
+    "ncm": "8539.10",
+    "mva": "71.78",
+    "descricao": "Faróis e projetores, em unidades seladas"
+  },
+  {
+    "ncm": "8539.2",
+    "mva": "71.78",
+    "descricao": "Lâmpadas e tubos de incandescência, exceto de raios ultravioleta ou infravermelhos"
+  },
+  {
+    "ncm": "8544.20.00",
+    "mva": "71.78",
+    "descricao": "Cabos coaxiais e outros condutores elétricos coaxiais"
+  },
+  {
+    "ncm": "8544.30.00",
+    "mva": "71.78",
+    "descricao": "Jogos de fios para velas de ignição e outros jogos de fios"
+  },
+  {
+    "ncm": "8707",
+    "mva": "71.78",
+    "descricao": "Carroçarias para os veículos automóveis das posições 8701 a 8705, incluídas as cabinas"
+  },
+  {
+    "ncm": "8708",
+    "mva": "71.78",
+    "descricao": "Partes e acessórios dos veículos automóveis das posições 8701 a 8705"
+  },
+  {
+    "ncm": "8714.1",
+    "mva": "71.78",
+    "descricao": "Parte e acessórios de motocicletas (incluídos os ciclomotores)"
+  },
+  {
+    "ncm": "8716.90.90",
+    "mva": "71.78",
+    "descricao": "Engates para reboques e semirreboques"
+  },
+  {
+    "ncm": "9026.10",
+    "mva": "71.78",
+    "descricao": "Medidores de nível; Medidores de vazão"
+  },
+  {
+    "ncm": "9026.20",
+    "mva": "71.78",
+    "descricao": "Aparelhos para medida ou controle da pressão"
+  },
+  {
+    "ncm": "9029",
+    "mva": "71.78",
+    "descricao": "Contadores, indicadores de velocidade e tacômetros, suas partes e acessórios"
+  },
+  {
+    "ncm": "9031.80.40",
+    "mva": "71.78",
+    "descricao": "Aparelhos digitais, de uso em veículos automóveis, para medida e indicação de múltiplas grandezas tais como: velocidade média, consumos instantâneo e médio e autonomia (computador de bordo)"
+  },
+  {
+    "ncm": "9032.89.2",
+    "mva": "71.78",
+    "descricao": "Controladores eletrônicos"
+  },
+  {
+    "ncm": "9104.00.00",
+    "mva": "71.78",
+    "descricao": "Relógios para painéis de instrumentos e relógios semelhantes"
+  },
+  {
+    "ncm": "9401.20.00",
+    "mva": "71.78",
+    "descricao": "Assentos e partes de assentos"
+  },
+  {
+    "ncm": "9401.99.00",
+    "mva": "71.78",
+    "descricao": "Assentos e partes de assentos"
+  },
+  {
+    "ncm": "9613.80.00",
+    "mva": "71.78",
+    "descricao": "Acendedores"
+  },
+  {
+    "ncm": "4009",
+    "mva": "71.78",
+    "descricao": "Tubos de borracha vulcanizada não endurecida, mesmo providos de seus acessórios"
+  },
+  {
+    "ncm": "4504.90.00",
+    "mva": "71.78",
+    "descricao": "Juntas de vedação de cortiça natural e de amianto"
+  },
+  {
+    "ncm": "6812.99.10",
+    "mva": "71.78",
+    "descricao": "Juntas de vedação de cortiça natural e de amianto"
+  },
+  {
+    "ncm": "4823.40.00",
+    "mva": "71.78",
+    "descricao": "Papel-diagrama para tacógrafo, em disco"
+  },
+  {
+    "ncm": "3919.10",
+    "mva": "71.78",
+    "descricao": "Fitas, tiras, adesivos, autocolantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para- choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários"
+  },
+  {
+    "ncm": "3919.90",
+    "mva": "71.78",
+    "descricao": "Fitas, tiras, adesivos, autocolantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para- choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários"
+  },
+  {
+    "ncm": "8708.29.99",
+    "mva": "71.78",
+    "descricao": "Fitas, tiras, adesivos, autocolantes, de plástico, refletores, mesmo em rolos; placas metálicas com película de plástico refletora, próprias para colocação em carrocerias, para- choques de veículos de carga, motocicletas, ciclomotores, capacetes, bonés de agentes de trânsito e de condutores de veículos, atuando como dispositivos refletivos de segurança rodoviários"
+  },
+  {
+    "ncm": "8412.31.10",
+    "mva": "71.78",
+    "descricao": "Cilindros pneumáticos"
+  },
+  {
+    "ncm": "8413.19.00",
+    "mva": "71.78",
+    "descricao": "Bomba elétrica de lavador de para- brisa"
+  },
+  {
+    "ncm": "8413.50.90",
+    "mva": "71.78",
+    "descricao": "Bomba elétrica de lavador de para- brisa"
+  },
+  {
+    "ncm": "8413.81.00",
+    "mva": "71.78",
+    "descricao": "Bomba elétrica de lavador de para- brisa"
+  },
+  {
+    "ncm": "8413.60.19",
+    "mva": "71.78",
+    "descricao": "Bomba de assistência de direção hidráulica"
+  },
+  {
+    "ncm": "8413.70.10",
+    "mva": "71.78",
+    "descricao": "Bomba de assistência de direção hidráulica"
+  },
+  {
+    "ncm": "8414.59.10",
+    "mva": "71.78",
+    "descricao": "Motoventiladores"
+  },
+  {
+    "ncm": "8414.59.90",
+    "mva": "71.78",
+    "descricao": "Motoventiladores"
+  },
+  {
+    "ncm": "8421.39.90",
+    "mva": "71.78",
+    "descricao": "Filtros de pólen do ar-condicionado"
+  },
+  {
+    "ncm": "8501.10.19",
+    "mva": "71.78",
+    "descricao": "\"Máquina\" de vidro elétrico de porta"
+  },
+  {
+    "ncm": "8501.31.10",
+    "mva": "71.78",
+    "descricao": "Motor de limpador de para- brisa"
+  },
+  {
+    "ncm": "8504.50.00",
+    "mva": "71.78",
+    "descricao": "Bobinas de reatância e de autoindução"
+  },
+  {
+    "ncm": "8507.20",
+    "mva": "71.78",
+    "descricao": "Baterias de chumbo e de níquel- cádmio"
+  },
+  {
+    "ncm": "8507.30",
+    "mva": "71.78",
+    "descricao": "Baterias de chumbo e de níquel- cádmio"
+  },
+  {
+    "ncm": "8512.30.00",
+    "mva": "71.78",
+    "descricao": "Aparelhos de sinalização acústica (buzina)"
+  },
+  {
+    "ncm": "9032.89.8",
+    "mva": "71.78",
+    "descricao": "Instrumentos para regulação de grandezas não elétricas"
+  },
+  {
+    "ncm": "9032.89.9",
+    "mva": "71.78",
+    "descricao": "Instrumentos para regulação de grandezas não elétricas"
+  },
+  {
+    "ncm": "9027.10.00",
+    "mva": "71.78",
+    "descricao": "Analisadores de gases ou de fumaça (sonda lambda)"
+  },
+  {
+    "ncm": "4008.11.00",
+    "mva": "71.78",
+    "descricao": "Perfilados de borracha vulcanizada não endurecida"
+  },
+  {
+    "ncm": "5601.22.19",
+    "mva": "71.78",
+    "descricao": "Artefatos de pasta de fibra de uso automotivo"
+  },
+  {
+    "ncm": "5703.29.00",
+    "mva": "71.78",
+    "descricao": "Tapetes/carpetes - náilon"
+  },
+  {
+    "ncm": "5703.39.00",
+    "mva": "71.78",
+    "descricao": "Tapetes de matérias têxteis sintéticas"
+  },
+  {
+    "ncm": "5911.90.00",
+    "mva": "71.78",
+    "descricao": "Forração interior capacete"
+  },
+  {
+    "ncm": "6903.90.99",
+    "mva": "71.78",
+    "descricao": "Outros para-brisas"
+  },
+  {
+    "ncm": "7007.29.00",
+    "mva": "71.78",
+    "descricao": "Moldura com espelho"
+  },
+  {
+    "ncm": "7314.50.00",
+    "mva": "71.78",
+    "descricao": "REVOGADO"
+  },
+  {
+    "ncm": "7315.11.00",
+    "mva": "71.78",
+    "descricao": "Corrente transmissão"
+  },
+  {
+    "ncm": "7315.12.10",
+    "mva": "71.78",
+    "descricao": "Outras correntes de transmissão"
+  },
+  {
+    "ncm": "8418.99.00",
+    "mva": "71.78",
+    "descricao": "Condensador tubular metálico"
+  },
+  {
+    "ncm": "8419.50",
+    "mva": "71.78",
+    "descricao": "Trocadores de calor"
+  },
+  {
+    "ncm": "8424.90.90",
+    "mva": "71.78",
+    "descricao": "Partes de aparelhos mecânicos de pulverizar ou dispersar"
+  },
+  {
+    "ncm": "8425.49.10",
+    "mva": "71.78",
+    "descricao": "Macacos manuais para veículos"
+  },
+  {
+    "ncm": "8431.41.00",
+    "mva": "71.78",
+    "descricao": "Caçambas, pás, ganchos e tenazes para máquinas rodoviárias"
+  },
+  {
+    "ncm": "8501.61.00",
+    "mva": "71.78",
+    "descricao": "Geradores de corrente alternada de potência não superior a 75 kva"
+  },
+  {
+    "ncm": "8531.10.90",
+    "mva": "71.78",
+    "descricao": "Aparelhos elétricos para alarme de uso automotivo"
+  },
+  {
+    "ncm": "9014.10.00",
+    "mva": "71.78",
+    "descricao": "Bússolas"
+  },
+  {
+    "ncm": "9025.19.90",
+    "mva": "71.78",
+    "descricao": "Indicadores de temperatura"
+  },
+  {
+    "ncm": "9025.90.10",
+    "mva": "71.78",
+    "descricao": "Partes de indicadores de temperatura"
+  },
+  {
+    "ncm": "9026.90",
+    "mva": "71.78",
+    "descricao": "Partes de aparelhos de medida ou controle"
+  },
+  {
+    "ncm": "9032.10.10",
+    "mva": "71.78",
+    "descricao": "Termostatos"
+  },
+  {
+    "ncm": "9032.10.90",
+    "mva": "71.78",
+    "descricao": "Instrumentos e aparelhos para regulação"
+  },
+  {
+    "ncm": "9032.20.00",
+    "mva": "71.78",
+    "descricao": "Pressostatos"
+  },
+  {
+    "ncm": "8716.90",
+    "mva": "71.78",
+    "descricao": "Peças para reboques e semirreboques, exceto os itens classificados no CEST 01.077.00"
+  },
+  {
+    "ncm": "7322.90.10",
+    "mva": "71.78",
+    "descricao": "Geradores de ar quente a combustível líquido, com capacidade superior ou igual a 1.500 kcal/h, mas inferior ou igual a 10.400 kcal/h, do tipo dos utilizados em veículos automóveis"
+  },
+  {
+    "ncm": "2201.10.00",
+    "mva": "50",
+    "descricao": "Água mineral, gasosa ou não, ou potável, naturais, em embalagem de vidro descartável"
+  },
+  {
+    "ncm": "2201",
+    "mva": "50",
+    "descricao": "Outras águas minerais, gasosa ou não, ou potável, naturais; exceto as classificadas no CEST 03.003.00, 03.003.01, 03.005.00, 03.005.01 a 03.005.05, 03.024.00 e 03.025.00"
+  },
+  {
+    "ncm": "2202.10.00",
+    "mva": "50",
+    "descricao": "Água aromatizada artificialmente, exceto os refrescos e refrigerantes"
+  },
+  {
+    "ncm": "2202.99.00",
+    "mva": "50",
+    "descricao": "Outras águas minerais, gasosa ou não, ou potável, naturais, inclusive gaseificadas ou aromatizadas artificialmente, exceto os refrescos e refrigerantes"
+  },
+  {
+    "ncm": "2202",
+    "mva": "50",
+    "descricao": "Espumantes sem álcool"
+  },
+  {
+    "ncm": "2106.90.10",
+    "mva": "50",
+    "descricao": "Xarope ou extrato concentrado destinados ao preparo de refrigerante em máquina \"pré- mix\" ou \"post-mix\", exceto o classificado no CEST 03.012.01"
+  },
+  {
+    "ncm": "2106.90",
+    "mva": "50",
+    "descricao": "Bebidas energéticas em lata"
+  },
+  {
+    "ncm": "2203.00.00",
+    "mva": "120",
+    "descricao": "Cerveja em garrafa de vidro retornável"
+  },
+  {
+    "ncm": "2202.91.00",
+    "mva": "50",
+    "descricao": "Cerveja sem álcool em garrafa de vidro retornável"
+  },
+  {
+    "ncm": "2523",
+    "mva": "30",
+    "descricao": "Cimento"
+  },
+  {
+    "ncm": "2207.10.10",
+    "mva": "91.49",
+    "descricao": "Álcool etílico não desnaturado, com um teor alcoólico em volume igual ou superior a 80% vol - Com um teor de água igual ou inferior a 1 % vol (álcool etílico anidro combustível)"
+  },
+  {
+    "ncm": "2207.10.90",
+    "mva": "23.46",
+    "descricao": "Álcool etílico não desnaturado, com um teor alcoólico em volume igual ou superior a 80% vol - Outros (álcool etílico hidratado combustível)"
+  },
+  {
+    "ncm": "2710.12.59",
+    "mva": "91.49",
+    "descricao": "Gasolina automotiva A, exceto Premium"
+  },
+  {
+    "ncm": "2710.12.51",
+    "mva": "30",
+    "descricao": "Gasolina de aviação"
+  },
+  {
+    "ncm": "2710.19.11",
+    "mva": "30",
+    "descricao": "Querosene de aviação"
+  },
+  {
+    "ncm": "2710.19.2",
+    "mva": "45.59",
+    "descricao": "Óleo diesel A, exceto S10 e Marítimo"
+  },
+  {
+    "ncm": "2710.19.3",
+    "mva": "61.31",
+    "descricao": "Óleos lubrificantes"
+  },
+  {
+    "ncm": "2711.19.10",
+    "mva": "253.62",
+    "descricao": "Gás liquefeito de petróleo em botijão de 13 Kg (GLP)"
+  },
+  {
+    "ncm": "2711.11.00",
+    "mva": "30",
+    "descricao": "Gás Natural Liquefeito"
+  },
+  {
+    "ncm": "2711.21.00",
+    "mva": "30",
+    "descricao": "Gás Natural Gasoso"
+  },
+  {
+    "ncm": "3826.00.00",
+    "mva": "45.59",
+    "descricao": "Biodiesel e suas misturas, que não contenham ou que contenham menos de 70%, em peso, de óleos de petróleo ou de óleos minerais betuminosos"
+  },
+  {
+    "ncm": "3403",
+    "mva": "61.31",
+    "descricao": "Preparações lubrificantes, exceto as contendo, como constituintes de base, 70% ou mais, em peso, de óleos de petróleo ou de minerais betuminosos"
+  },
+  {
+    "ncm": "6804",
+    "mva": "70",
+    "descricao": "Mós e artefatos semelhantes, sem armação, para moer, desfibrar, triturar, amolar, polir, retificar ou cortar; pedras para amolar ou para polir, manualmente, e suas partes, de pedras naturais, de abrasivos naturais ou artificiais aglomerados ou de cerâmica, mesmo com partes de outras matérias"
+  },
+  {
+    "ncm": "8203",
+    "mva": "70",
+    "descricao": "Limas, grosas, alicates (mesmo cortantes), tenazes, pinças, cisalhas para metais, corta-tubos, corta-pinos, saca-bocados e ferramentas semelhantes, manuais, exceto as pinças para sobrancelhas classificadas na posição 8203.20.90"
+  },
+  {
+    "ncm": "8207.40",
+    "mva": "70",
+    "descricao": "Ferramentas de roscar interior ou exteriormente; de mandrilar ou de brochar; e de fresar"
+  },
+  {
+    "ncm": "8207.60",
+    "mva": "70",
+    "descricao": "Ferramentas de roscar interior ou exteriormente; de mandrilar ou de brochar; e de fresar"
+  },
+  {
+    "ncm": "8207.70",
+    "mva": "70",
+    "descricao": "Ferramentas de roscar interior ou exteriormente; de mandrilar ou de brochar; e de fresar"
+  },
+  {
+    "ncm": "8207",
+    "mva": "70",
+    "descricao": "Outras ferramentas intercambiáveis para ferramentas manuais, mesmo mecânicas, ou para máquinas- ferramentas (por exemplo, de embutir, estampar, puncionar, furar, tornear, aparafusar), incluídas as fieiras de estiragem ou de extrusão, para metais, e as ferramentas de perfuração ou de sondagem, exceto forma ou gabarito de produtos em epoxy e as classificadas no CEST 08.012.00"
+  },
+  {
+    "ncm": "9015",
+    "mva": "70",
+    "descricao": "Instrumentos e aparelhos de geodesia, topografia, agrimensura, nivelamento, fotogrametria, hidrografia, oceanografia, hidrologia, meteorologia ou de geofísica, exceto bussolas; telêmetros"
+  },
+  {
+    "ncm": "9017.20.00",
+    "mva": "70",
+    "descricao": "Instrumentos de desenho, de traçado ou de cálculo; metros, micrômetros, paquímetros, calibres e semelhantes; partes e acessórios"
+  },
+  {
+    "ncm": "9017.30",
+    "mva": "70",
+    "descricao": "Instrumentos de desenho, de traçado ou de cálculo; metros, micrômetros, paquímetros, calibres e semelhantes; partes e acessórios"
+  },
+  {
+    "ncm": "9017.80",
+    "mva": "70",
+    "descricao": "Instrumentos de desenho, de traçado ou de cálculo; metros, micrômetros, paquímetros, calibres e semelhantes; partes e acessórios"
+  },
+  {
+    "ncm": "9017.90.90",
+    "mva": "70",
+    "descricao": "Instrumentos de desenho, de traçado ou de cálculo; metros, micrômetros, paquímetros, calibres e semelhantes; partes e acessórios"
+  },
+  {
+    "ncm": "9025.11.90",
+    "mva": "70",
+    "descricao": "Termômetros, suas partes e acessórios"
+  },
+  {
+    "ncm": "9025.19",
+    "mva": "70",
+    "descricao": "Pirômetros, suas partes e acessórios"
+  },
+  {
+    "ncm": "9025.90.90",
+    "mva": "70",
+    "descricao": "Pirômetros, suas partes e acessórios"
+  },
+  {
+    "ncm": "8539",
+    "mva": "60.03",
+    "descricao": "Lâmpadas elétricas"
+  },
+  {
+    "ncm": "8540",
+    "mva": "102.31",
+    "descricao": "Lâmpadas eletrônicas"
+  },
+  {
+    "ncm": "8504.10.00",
+    "mva": "53.13",
+    "descricao": "Reatores para lâmpadas ou tubos de descargas"
+  },
+  {
+    "ncm": "8539.52.00",
+    "mva": "63.67",
+    "descricao": "Lâmpadas de LED (diodos emissores de luz)"
+  },
+  {
+    "ncm": "2522",
+    "mva": "70",
+    "descricao": "Cal"
+  },
+  {
+    "ncm": "3816.00.1",
+    "mva": "35",
+    "descricao": "Argamassas"
+  },
+  {
+    "ncm": "3824.50.00",
+    "mva": "35",
+    "descricao": "Argamassas"
+  },
+  {
+    "ncm": "3214.90.00",
+    "mva": "35",
+    "descricao": "Outras argamassas"
+  },
+  {
+    "ncm": "3910.00",
+    "mva": "35",
+    "descricao": "Silicones em formas primárias, para uso na construção"
+  },
+  {
+    "ncm": "3916",
+    "mva": "70",
+    "descricao": "Revestimentos de PVC e outros plásticos; forro, sancas e afins de PVC, para uso na construção"
+  },
+  {
+    "ncm": "3918",
+    "mva": "70",
+    "descricao": "Revestimento de pavimento de PVC e outros plásticos"
+  },
+  {
+    "ncm": "3919",
+    "mva": "70",
+    "descricao": "Chapas, folhas, tiras, fitas, películas e outras formas planas, autoadesivas, de plásticos, mesmo em rolos, para uso na construção"
+  },
+  {
+    "ncm": "3920",
+    "mva": "70",
+    "descricao": "Veda rosca, lona plástica para uso na construção, fitas isolantes e afins"
+  },
+  {
+    "ncm": "3921",
+    "mva": "70",
+    "descricao": "Veda rosca, lona plástica para uso na construção, fitas isolantes e afins"
+  },
+  {
+    "ncm": "3922",
+    "mva": "70",
+    "descricao": "Banheiras, boxes para chuveiros, pias, lavatórios, bidês, sanitários e seus assentos e tampas, caixas de descarga e artigos semelhantes para usos sanitários ou higiênicos, de plásticos"
+  },
+  {
+    "ncm": "3925.10.00",
+    "mva": "70",
+    "descricao": "Caixa d¿água, inclusive sua tampa, de plástico, mesmo reforçadas com fibra de vidro"
+  },
+  {
+    "ncm": "3925.90",
+    "mva": "70",
+    "descricao": "Outras telhas, cumeeira e caixa d¿água, inclusive sua tampa, de plástico, mesmo reforçadas com fibra de vidro"
+  },
+  {
+    "ncm": "3925.20.00",
+    "mva": "70",
+    "descricao": "Portas, janelas e seus caixilhos, alizares e soleiras"
+  },
+  {
+    "ncm": "3925.30.00",
+    "mva": "70",
+    "descricao": "Postigos, estores (incluídas as venezianas) e artefatos semelhantes e suas partes"
+  },
+  {
+    "ncm": "3926.90",
+    "mva": "70",
+    "descricao": "Outras obras de plástico, para uso na construção"
+  },
+  {
+    "ncm": "4814",
+    "mva": "70",
+    "descricao": "Papel de parede e revestimentos de parede semelhantes; papel para vitrais"
+  },
+  {
+    "ncm": "6810.19.00",
+    "mva": "70",
+    "descricao": "Telhas de concreto"
+  },
+  {
+    "ncm": "6811",
+    "mva": "70",
+    "descricao": "Caixas d¿água, tanques e reservatórios e suas tampas, telhas, calhas, cumeeiras e afins, de fibrocimento, cimento-celulose ou semelhantes, contendo ou não amianto."
+  },
+  {
+    "ncm": "6904",
+    "mva": "70",
+    "descricao": "Tijolos para construção, tijoleiras, tapa- vigas e produtos semelhantes, de cerâmica"
+  },
+  {
+    "ncm": "6905",
+    "mva": "70",
+    "descricao": "Telhas, elementos de chaminés, condutores de fumaça, ornamentos arquitetônicos, de cerâmica, e outros produtos cerâmicos para uso na construção"
+  },
+  {
+    "ncm": "6906.00.00",
+    "mva": "70",
+    "descricao": "Tubos, calhas ou algerozes e acessórios para canalizações, de cerâmica"
+  },
+  {
+    "ncm": "6907",
+    "mva": "70",
+    "descricao": "Ladrilhos e placas de cerâmica, exclusivamente para pavimentação ou revestimento"
+  },
+  {
+    "ncm": "6910",
+    "mva": "70",
+    "descricao": "Pias, lavatórios, colunas para lavatórios, banheiras, bidês, sanitários, caixas de descarga, mictórios e aparelhos fixos semelhantes para usos sanitários, de cerâmica"
+  },
+  {
+    "ncm": "6912.00.00",
+    "mva": "94",
+    "descricao": "Artefatos de higiene/toucador de cerâmica"
+  },
+  {
+    "ncm": "7003",
+    "mva": "70",
+    "descricao": "Vidro vazado ou laminado, em chapas, folhas ou perfis, mesmo com camada absorvente, refletora ou não, mas sem qualquer outro trabalho"
+  },
+  {
+    "ncm": "7004",
+    "mva": "70",
+    "descricao": "Vidro estirado ou soprado, em folhas, mesmo com camada absorvente, refletora ou não, mas sem qualquer outro trabalho"
+  },
+  {
+    "ncm": "7005",
+    "mva": "70",
+    "descricao": "Vidro flotado e vidro desbastado ou polido em uma ou em ambas as faces, em chapas ou em folhas, mesmo com camada absorvente, refletora ou não, mas sem qualquer outro trabalho"
+  },
+  {
+    "ncm": "7007.19.00",
+    "mva": "70",
+    "descricao": "Vidros temperados"
+  },
+  {
+    "ncm": "7008",
+    "mva": "70",
+    "descricao": "Vidros isolantes de paredes múltiplas"
+  },
+  {
+    "ncm": "7016",
+    "mva": "70",
+    "descricao": "Blocos, placas, tijolos, ladrilhos, telhas e outros artefatos, de vidro prensado ou moldado, mesmo armado, para uso na construção; cubos, pastilhas e outros artigos semelhantes"
+  },
+  {
+    "ncm": "7214.20.00",
+    "mva": "70",
+    "descricao": "Barras próprias para construções, exceto vergalhões"
+  },
+  {
+    "ncm": "7308.90.10",
+    "mva": "70",
+    "descricao": "Outras barras próprias para construções, exceto vergalhões"
+  },
+  {
+    "ncm": "7213",
+    "mva": "70",
+    "descricao": "Outros vergalhões"
+  },
+  {
+    "ncm": "7217.10.90",
+    "mva": "70",
+    "descricao": "Fios de ferro ou aço não ligados, não revestidos, mesmo polidos; cordas, cabos, tranças (entrançados), lingas e artefatos semelhantes, de ferro ou aço, não isolados para usos elétricos"
+  },
+  {
+    "ncm": "7312",
+    "mva": "70",
+    "descricao": "Fios de ferro ou aço não ligados, não revestidos, mesmo polidos; cordas, cabos, tranças (entrançados), lingas e artefatos semelhantes, de ferro ou aço, não isolados para usos elétricos"
+  },
+  {
+    "ncm": "7217.20.10",
+    "mva": "70",
+    "descricao": "Outros fios de ferro ou aço, não ligados, galvanizados com teor de carbono superior ou igual a 0,6%, em peso"
+  },
+  {
+    "ncm": "7217.20.90",
+    "mva": "70",
+    "descricao": "Outros fios de ferro ou aço, não ligados, galvanizados"
+  },
+  {
+    "ncm": "7307",
+    "mva": "70",
+    "descricao": "Acessórios para tubos (inclusive uniões, cotovelos, luvas ou mangas), de ferro fundido, ferro ou aço"
+  },
+  {
+    "ncm": "7308.30.00",
+    "mva": "70",
+    "descricao": "Portas e janelas, e seus caixilhos, alizares e soleiras de ferro fundido, ferro ou aço"
+  },
+  {
+    "ncm": "7308.40.00",
+    "mva": "70",
+    "descricao": "Material para andaimes, para armações (cofragens) e para escoramentos, (inclusive armações prontas, para estruturas de concreto armado ou argamassa armada), eletrocalhas e perfilados de ferro fundido, ferro ou aço, próprios para construção, exceto treliças de aço"
+  },
+  {
+    "ncm": "7308.90",
+    "mva": "70",
+    "descricao": "Material para andaimes, para armações (cofragens) e para escoramentos, (inclusive armações prontas, para estruturas de concreto armado ou argamassa armada), eletrocalhas e perfilados de ferro fundido, ferro ou aço, próprios para construção, exceto treliças de aço"
+  },
+  {
+    "ncm": "7310",
+    "mva": "70",
+    "descricao": "Caixas diversas (tais como caixa de correio, de entrada de água, de energia, de instalação) de ferro fundido, ferro ou aço; próprias para a construção"
+  },
+  {
+    "ncm": "7313.00.00",
+    "mva": "70",
+    "descricao": "Arame farpado, de ferro ou aço, arames ou tiras, retorcidos, mesmo farpados, de ferro ou aço, dos tipos utilizados em cercas"
+  },
+  {
+    "ncm": "7314",
+    "mva": "70",
+    "descricao": "Telas metálicas, grades e redes, de fios de ferro ou aço"
+  },
+  {
+    "ncm": "7317.00",
+    "mva": "70",
+    "descricao": "Tachas, pregos, percevejos, escápulas, grampos ondulados ou biselados e artefatos semelhantes, de ferro fundido, ferro ou aço, mesmo com a cabeça de outra matéria, exceto cobre"
+  },
+  {
+    "ncm": "7318",
+    "mva": "70",
+    "descricao": "Parafusos, pinos ou pernos, roscados, porcas, tira- fundos, ganchos roscados, rebites, chavetas, contrapinos ou troços, arruelas (anilhas) (incluindo as de pressão) e artigos semelhantes, de ferro fundido, ferro ou aço"
+  },
+  {
+    "ncm": "7324",
+    "mva": "70",
+    "descricao": "Artefatos de higiene ou de toucador, e suas partes, de ferro fundido, ferro ou aço, incluídas as pias, banheiras, lavatórios, cubas, mictórios, tanques e afins de ferro fundido, ferro ou aço, para uso na construção"
+  },
+  {
+    "ncm": "7326",
+    "mva": "70",
+    "descricao": "Abraçadeiras"
+  },
+  {
+    "ncm": "7407",
+    "mva": "70",
+    "descricao": "Barras de cobre"
+  },
+  {
+    "ncm": "7411.10.10",
+    "mva": "70",
+    "descricao": "Tubos de cobre e suas ligas, para instalações de água quente e gás, para uso na construção"
+  },
+  {
+    "ncm": "7412",
+    "mva": "70",
+    "descricao": "Acessórios para tubos (por exemplo, uniões, cotovelos, luvas ou mangas) de cobre e suas ligas, para uso na construção"
+  },
+  {
+    "ncm": "7415",
+    "mva": "70",
+    "descricao": "Tachas, pregos, percevejos, escápulas e artefatos semelhantes, de cobre, ou de ferro ou aço com cabeça de cobre, parafusos, pinos ou pernos, roscados, porcas, ganchos roscados, rebites, chavetas, cavilhas, contrapinos, arruelas (incluídas as de pressão), e artefatos semelhantes, de cobre"
+  },
+  {
+    "ncm": "7418.20.00",
+    "mva": "70",
+    "descricao": "Artefatos de higiene/toucador de cobre, para uso na construção"
+  },
+  {
+    "ncm": "7607.19.90",
+    "mva": "70",
+    "descricao": "Manta de subcobertura aluminizada"
+  },
+  {
+    "ncm": "7608",
+    "mva": "70",
+    "descricao": "Tubos de alumínio e suas ligas, para refrigeração e ar condicionado, para uso na construção"
+  },
+  {
+    "ncm": "7609.00.00",
+    "mva": "70",
+    "descricao": "Acessórios para tubos (por exemplo, uniões, cotovelos, luvas ou mangas), de alumínio, para uso na construção"
+  },
+  {
+    "ncm": "7610",
+    "mva": "70",
+    "descricao": "Construções e suas partes (por exemplo, pontes e elementos de pontes, torres, pórticos ou pilones, pilares, colunas, armações, estruturas para telhados, portas e janelas, e seus caixilhos, alizares e soleiras, balaustradas), de alumínio, exceto as construções pré- fabricadas da posição 9406; chapas, barras, perfis, tubos e semelhantes, de alumínio, próprios para construções"
+  },
+  {
+    "ncm": "7615.20.00",
+    "mva": "70",
+    "descricao": "Artefatos de higiene/toucador de alumínio, para uso na construção"
+  },
+  {
+    "ncm": "7616",
+    "mva": "70",
+    "descricao": "Outras obras de alumínio, próprias para construções, incluídas as persianas"
+  },
+  {
+    "ncm": "8302.41.00",
+    "mva": "70",
+    "descricao": "Outras guarnições, ferragens e artigos semelhantes de metais comuns, para construções, inclusive puxadores."
+  },
+  {
+    "ncm": "8301",
+    "mva": "70",
+    "descricao": "Fechaduras e ferrolhos (de chave, de segredo ou elétricos), de metais comuns, incluídas as suas partes fechos e armações com fecho, com fechadura, de metais comuns chaves para estes artigos, de metais comuns; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "8307",
+    "mva": "70",
+    "descricao": "Tubos flexíveis de metais comuns, mesmo com acessórios, para uso na construção"
+  },
+  {
+    "ncm": "8311",
+    "mva": "70",
+    "descricao": "Fios, varetas, tubos, chapas, eletrodos e artefatos semelhantes, de metais comuns ou de carbonetos metálicos, revestidos exterior ou interiormente de decapantes ou de fundentes, para soldagem (soldadura) ou depósito de metal ou de carbonetos metálicos fios e varetas de pós de metais comuns aglomerados, para metalização por projeção"
+  },
+  {
+    "ncm": "8481",
+    "mva": "70",
+    "descricao": "Torneiras, válvulas (incluídas as redutoras de pressão e as termostáticas) e dispositivos semelhantes, para canalizações, caldeiras, reservatórios, cubas e outros recipientes"
+  },
+  {
+    "ncm": "7009",
+    "mva": "70",
+    "descricao": "Espelhos de vidro, mesmo emoldurados, exceto os de uso automotivo"
+  },
+  {
+    "ncm": "2828.90.11",
+    "mva": "21",
+    "descricao": "Água sanitária, branqueador e outros alvejantes"
+  },
+  {
+    "ncm": "2828.90.19",
+    "mva": "21",
+    "descricao": "Água sanitária, branqueador e outros alvejantes"
+  },
+  {
+    "ncm": "3206.41.00",
+    "mva": "21",
+    "descricao": "Água sanitária, branqueador e outros alvejantes"
+  },
+  {
+    "ncm": "3402.50.00",
+    "mva": "21",
+    "descricao": "Água sanitária, branqueador e outros alvejantes"
+  },
+  {
+    "ncm": "3808.94.19",
+    "mva": "21",
+    "descricao": "Água sanitária, branqueador e outros alvejantes"
+  },
+  {
+    "ncm": "3401.20.90",
+    "mva": "21",
+    "descricao": "Sabões, desinfetantes e sanitizantes, todos em pó, flocos, palhetas, grânulos ou outras formas semelhantes, para lavar roupas"
+  },
+  {
+    "ncm": "3402",
+    "mva": "21",
+    "descricao": "Outros agentes orgânicos de superfície (exceto sabões); preparações tensoativas, preparações para lavagem (incluídas as preparações auxiliares para lavagem) e preparações para limpeza (inclusive multiuso e limpadores), mesmo contendo sabão, exceto os produtos descritos nos CEST 11.001.00, 11.004.00, 11.005.00 e 11.006.00; em embalagem de conteúdo inferior ou igual a 50 litros ou 50 kg"
+  },
+  {
+    "ncm": "3809.91.90",
+    "mva": "21",
+    "descricao": "Amaciante/suavizante"
+  },
+  {
+    "ncm": "7323.10.00",
+    "mva": "70",
+    "descricao": "Esponjas e palhas de aço; esponjas para limpeza, polimento ou uso semelhantes; todas de uso doméstico"
+  },
+  {
+    "ncm": "3923.2",
+    "mva": "75",
+    "descricao": "Sacos de lixo de conteúdo igual ou inferior a 100 litros"
+  },
+  {
+    "ncm": "8504",
+    "mva": "70",
+    "descricao": "Transformadores, bobinas de reatância e de auto indução, inclusive os transformadores de potência superior a 16 KVA, classificados nas posições 8504.33.00 e 8504.34.00; exceto os demais transformadores da subposição 8504.3, os reatores para lâmpadas elétricas de descarga classificados no código 8504.10.00, os carregadores de acumuladores do código 8504.40.10, os equipamentos de alimentação ininterrupta de energia (UPS ou \"no break\"), no código 8504.40.40 e os de uso automotivo"
+  },
+  {
+    "ncm": "8516",
+    "mva": "70",
+    "descricao": "Aquecedores elétricos de água, incluídos os de imersão, chuveiros ou duchas elétricos, torneiras elétricas, resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes; exceto outros fornos, fogareiros (incluídas as chapas de cocção), grelhas e assadeiras, classificados na posição 8516.60.00"
+  },
+  {
+    "ncm": "8535",
+    "mva": "70",
+    "descricao": "Aparelhos para interrupção, seccionamento, proteção, derivação, ligação ou conexão de circuitos elétricos (por exemplo, interruptores, comutadores, corta-circuitos, para- raios, limitadores de tensão, eliminadores de onda, tomadas de corrente e outros conectores, caixas de junção), para tensão superior a 1.000V, exceto os de uso automotivo"
+  },
+  {
+    "ncm": "8536",
+    "mva": "70",
+    "descricao": "Aparelhos para interrupção, seccionamento, proteção, derivação, ligação ou conexão de circuitos elétricos (por exemplo, interruptores, comutadores, relés, corta-circuitos, eliminadores de onda, plugues e tomadas de corrente, suportes para lâmpadas e outros conectores, caixas de junção), para uma tensão não superior a 1.000V; conectores para fibras ópticas, feixes ou cabos de fibras ópticas; exceto \"starter\" classificado na subposição 8536.50 e os de uso automotivo"
+  },
+  {
+    "ncm": "8544",
+    "mva": "70",
+    "descricao": "Fios, cabos (incluídos os cabos coaxiais) e outros condutores, isolados ou não, para usos elétricos (incluídos os de cobre ou alumínio, envernizados ou oxidados anodicamente), mesmo com peças de conexão, inclusive fios e cabos elétricos, para tensão não superior a 1000V, para uso na construção; fios e cabos telefônicos e para transmissão de dados; cabos de fibras ópticas, constituídos de fibras embainhadas individualmente, mesmo com condutores elétricos ou munidos de peças de conexão; cordas, cabos, tranças e semelhantes, de alumínio, não isolados para uso elétricos; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "7605",
+    "mva": "70",
+    "descricao": "Fios, cabos (incluídos os cabos coaxiais) e outros condutores, isolados ou não, para usos elétricos (incluídos os de cobre ou alumínio, envernizados ou oxidados anodicamente), mesmo com peças de conexão, inclusive fios e cabos elétricos, para tensão não superior a 1000V, para uso na construção; fios e cabos telefônicos e para transmissão de dados; cabos de fibras ópticas, constituídos de fibras embainhadas individualmente, mesmo com condutores elétricos ou munidos de peças de conexão; cordas, cabos, tranças e semelhantes, de alumínio, não isolados para uso elétricos; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "7614",
+    "mva": "70",
+    "descricao": "Fios, cabos (incluídos os cabos coaxiais) e outros condutores, isolados ou não, para usos elétricos (incluídos os de cobre ou alumínio, envernizados ou oxidados anodicamente), mesmo com peças de conexão, inclusive fios e cabos elétricos, para tensão não superior a 1000V, para uso na construção; fios e cabos telefônicos e para transmissão de dados; cabos de fibras ópticas, constituídos de fibras embainhadas individualmente, mesmo com condutores elétricos ou munidos de peças de conexão; cordas, cabos, tranças e semelhantes, de alumínio, não isolados para uso elétricos; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "8546",
+    "mva": "70",
+    "descricao": "Isoladores de qualquer matéria, para usos elétricos"
+  },
+  {
+    "ncm": "8547",
+    "mva": "70",
+    "descricao": "Peças isolantes inteiramente de matérias isolantes, ou com simples peças metálicas de montagem (suportes roscados, por exemplo) incorporadas na massa, para máquinas, aparelhos e instalações elétricas; tubos isoladores e suas peças de ligação, de metais comuns, isolados interiormente"
+  },
+  {
+    "ncm": "3003",
+    "mva": "59",
+    "descricao": "Medicamentos de referência - positiva, exceto para uso veterinário"
+  },
+  {
+    "ncm": "3004",
+    "mva": "59",
+    "descricao": "Medicamentos de referência - positiva, exceto para uso veterinário"
+  },
+  {
+    "ncm": "3006.60.00",
+    "mva": "59",
+    "descricao": "Preparações químicas contraceptivas de referência, à base de hormônios, de outros produtos da posição 29.37 ou de espermicidas - positiva."
+  },
+  {
+    "ncm": "2936",
+    "mva": "59",
+    "descricao": "Provitaminas e vitaminas, naturais ou reproduzidas por síntese (incluídos os concentrados naturais), bem como os seus derivados utilizados principalmente como vitaminas, misturados ou não entre si, mesmo em quaisquer soluções - neutra"
+  },
+  {
+    "ncm": "3006.30",
+    "mva": "59",
+    "descricao": "Preparações opacificantes (contrastantes) para exames radiográficos e reagentes de diagnóstico concebidos para serem administrados ao paciente - positiva"
+  },
+  {
+    "ncm": "3002",
+    "mva": "59",
+    "descricao": "Antissoro, outras frações do sangue, produtos imunológicos modificados, mesmo obtidos por via biotecnológica, exceto para uso veterinário - positiva"
+  },
+  {
+    "ncm": "3005.10.10",
+    "mva": "59",
+    "descricao": "Curativos (pensos) adesivos e outros artigos com uma camada adesiva, impregnados ou recobertos de substâncias farmacêuticas - Lista Positiva"
+  },
+  {
+    "ncm": "3005",
+    "mva": "59",
+    "descricao": "Algodão, atadura, esparadrapo, gazes, pensos, sinapismos, e outros, acondicionados para venda a retalho para usos medicinais, cirúrgicos ou dentários, não impregnados ou recobertos de substâncias farmacêuticas - Lista Neutra"
+  },
+  {
+    "ncm": "4015.12.00",
+    "mva": "59",
+    "descricao": "Luvas cirúrgicas e luvas de procedimento - neutra"
+  },
+  {
+    "ncm": "4015.19.00",
+    "mva": "59",
+    "descricao": "Luvas cirúrgicas e luvas de procedimento - neutra"
+  },
+  {
+    "ncm": "4014.10.00",
+    "mva": "59",
+    "descricao": "Preservativo - neutra"
+  },
+  {
+    "ncm": "9018.31",
+    "mva": "59",
+    "descricao": "Seringas, mesmo com agulhas - neutra"
+  },
+  {
+    "ncm": "9018.32.1",
+    "mva": "59",
+    "descricao": "Agulhas para seringas - neutra"
+  },
+  {
+    "ncm": "3926.90.90",
+    "mva": "59",
+    "descricao": "Contraceptivos (dispositivos intrauterinos - DIU) - neutra"
+  },
+  {
+    "ncm": "9018.90.99",
+    "mva": "59",
+    "descricao": "Contraceptivos (dispositivos intrauterinos - DIU) - neutra"
+  },
+  {
+    "ncm": "7013",
+    "mva": "59",
+    "descricao": "Objetos de vidro para serviço de mesa ou de cozinha"
+  },
+  {
+    "ncm": "7013.37.00",
+    "mva": "59",
+    "descricao": "Outros copos, exceto de vitrocerâmica"
+  },
+  {
+    "ncm": "7013.42.90",
+    "mva": "59",
+    "descricao": "Objetos para serviço de mesa (exceto copos) ou de cozinha, exceto de vitrocerâmica"
+  },
+  {
+    "ncm": "3924.10.00",
+    "mva": "59",
+    "descricao": "Serviços de mesa e outros utensílios de mesa ou de cozinha, de plástico, não descartáveis"
+  },
+  {
+    "ncm": "6911.10.10",
+    "mva": "94",
+    "descricao": "Artigos para serviço de mesa ou de cozinha, de porcelana, inclusive os descartáveis - estojos"
+  },
+  {
+    "ncm": "6911.10.90",
+    "mva": "94",
+    "descricao": "Artigos para serviço de mesa ou de cozinha, de porcelana, inclusive os descartáveis - avulsos"
+  },
+  {
+    "ncm": "4823.20.9",
+    "mva": "87",
+    "descricao": "Filtros descartáveis para coar café ou chá"
+  },
+  {
+    "ncm": "4823.6",
+    "mva": "87",
+    "descricao": "Bandejas, travessas, pratos, xícaras ou chávenas, taças, copos e artigos semelhantes, de papel ou cartão"
+  },
+  {
+    "ncm": "4813.10.00",
+    "mva": "94",
+    "descricao": "Papel para cigarro"
+  },
+  {
+    "ncm": "4011.10.00",
+    "mva": "42",
+    "descricao": "Pneus novos, dos tipos utilizados em automóveis de passageiros (incluídos os veículos de uso misto - camionetas e os automóveis de corrida)"
+  },
+  {
+    "ncm": "4011",
+    "mva": "32",
+    "descricao": "Pneus novos, dos tipos utilizados em caminhões (inclusive para os fora-de- estrada), ônibus, aviões, máquinas de terraplenagem, de construção e conservação de estradas, máquinas e tratores agrícolas, pá-carregadeira"
+  },
+  {
+    "ncm": "4011.40.00",
+    "mva": "60",
+    "descricao": "Pneus novos para motocicletas"
+  },
+  {
+    "ncm": "4012.90",
+    "mva": "45",
+    "descricao": "Protetores de borracha, exceto os itens classificados no CEST 16.007.01"
+  },
+  {
+    "ncm": "4013",
+    "mva": "45",
+    "descricao": "Câmaras de ar de borracha, exceto os itens classificados no CEST 16.009.00"
+  },
+  {
+    "ncm": "1704.90.10",
+    "mva": "63",
+    "descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
+  },
+  {
+    "ncm": "1704.90.90",
+    "mva": "63",
+    "descricao": "Chocolate branco, coberturas de chocolate branco e outros produtos de confeitaria com manteiga de cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.00 e 17.008.00"
+  },
+  {
+    "ncm": "1806.31.10",
+    "mva": "40",
+    "descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "1806.31.20",
+    "mva": "40",
+    "descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "1806.32.10",
+    "mva": "40",
+    "descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
+  },
+  {
+    "ncm": "1806.32.20",
+    "mva": "40",
+    "descricao": "Chocolates ou outras preparações alimentícias que contenham cacau, em tabletes, barras ou paus, não recheados, em recipientes ou embalagens imediatas de conteúdo inferior ou igual a 2 kg"
+  },
+  {
+    "ncm": "1806.90.00",
+    "mva": "40",
+    "descricao": "Chocolates e outras preparações alimentícias contendo cacau, em embalagens de conteúdo inferior ou igual a 1 kg, exceto os classificados nos CEST 17.005.01, 17.006.00, 17.006.02 e 17.007.00"
+  },
+  {
+    "ncm": "1806.10.00",
+    "mva": "40",
+    "descricao": "Cacau em pó, com adição de açúcar ou de outros edulcorantes, em embalagens de conteúdo inferior ou igual a 1kg"
+  },
+  {
+    "ncm": "2009",
+    "mva": "42",
+    "descricao": "Sucos de frutas ou de produtos hortícolas; mistura de sucos"
+  },
+  {
+    "ncm": "2009.8",
+    "mva": "42",
+    "descricao": "Água de coco"
+  },
+  {
+    "ncm": "0402.1",
+    "mva": "37",
+    "descricao": "Leite em pó, blocos ou grânulos, exceto creme de leite"
+  },
+  {
+    "ncm": "0402.2",
+    "mva": "37",
+    "descricao": "Leite em pó, blocos ou grânulos, exceto creme de leite"
+  },
+  {
+    "ncm": "0402.9",
+    "mva": "37",
+    "descricao": "Leite em pó, blocos ou grânulos, exceto creme de leite"
+  },
+  {
+    "ncm": "1901.10.20",
+    "mva": "33",
+    "descricao": "Farinha láctea"
+  },
+  {
+    "ncm": "1901.10.10",
+    "mva": "37",
+    "descricao": "Leite modificado para alimentação de crianças"
+  },
+  {
+    "ncm": "1901.10.90",
+    "mva": "37",
+    "descricao": "Preparações para alimentação infantil à base de farinhas, grumos, sêmolas ou amidos e outros"
+  },
+  {
+    "ncm": "1901.10.30",
+    "mva": "37",
+    "descricao": "Preparações para alimentação infantil à base de farinhas, grumos, sêmolas ou amidos e outros"
+  },
+  {
+    "ncm": "0401.10.10",
+    "mva": "15",
+    "descricao": "Leite \"longa vida\" (UHT - \"Ultra High Temperature\"), em recipiente de conteúdo inferior ou igual a 2 litros"
+  },
+  {
+    "ncm": "0401.20.10",
+    "mva": "15",
+    "descricao": "Leite \"longa vida\" (UHT - \"Ultra High Temperature\"), em recipiente de conteúdo inferior ou igual a 2 litros"
+  },
+  {
+    "ncm": "0401.40.10",
+    "mva": "37",
+    "descricao": "Leite em recipiente de conteúdo inferior ou igual a 1 litro"
+  },
+  {
+    "ncm": "0401.50.10",
+    "mva": "37",
+    "descricao": "Leite em recipiente de conteúdo inferior ou igual a 1 litro"
+  },
+  {
+    "ncm": "0401.10.90",
+    "mva": "37",
+    "descricao": "Leite do tipo pasteurizado em recipiente de conteúdo inferior ou igual a 1 litro"
+  },
+  {
+    "ncm": "0401.20.90",
+    "mva": "37",
+    "descricao": "Leite do tipo pasteurizado em recipiente de conteúdo inferior ou igual a 1 litro"
+  },
+  {
+    "ncm": "0401.40.2",
+    "mva": "37",
+    "descricao": "Creme de leite, em recipiente de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "0402.21.30",
+    "mva": "37",
+    "descricao": "Creme de leite, em recipiente de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "0402.29.30",
+    "mva": "37",
+    "descricao": "Creme de leite, em recipiente de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "0401.10",
+    "mva": "37",
+    "descricao": "Outros cremes de leite, em recipiente de conteúdo inferior ou igual a 1kg"
+  },
+  {
+    "ncm": "0401.20",
+    "mva": "37",
+    "descricao": "Outros cremes de leite, em recipiente de conteúdo inferior ou igual a 1kg"
+  },
+  {
+    "ncm": "0401.50",
+    "mva": "37",
+    "descricao": "Outros cremes de leite, em recipiente de conteúdo inferior ou igual a 1kg"
+  },
+  {
+    "ncm": "0402.10",
+    "mva": "37",
+    "descricao": "Outros cremes de leite, em recipiente de conteúdo inferior ou igual a 1kg"
+  },
+  {
+    "ncm": "0402.29.20",
+    "mva": "37",
+    "descricao": "Outros cremes de leite, em recipiente de conteúdo inferior ou igual a 1kg"
+  },
+  {
+    "ncm": "0403",
+    "mva": "37",
+    "descricao": "Iogurte e leite fermentado em recipiente de conteúdo inferior ou igual a 2 litros, exceto o item classificado no CEST 17.022.00"
+  },
+  {
+    "ncm": "0403.90.00",
+    "mva": "37",
+    "descricao": "Coalhada"
+  },
+  {
+    "ncm": "0406",
+    "mva": "37",
+    "descricao": "Requeijão e similares, em recipiente de conteúdo inferior ou igual a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "0406.10.10",
+    "mva": "37",
+    "descricao": "Queijo muçarela"
+  },
+  {
+    "ncm": "0406.10.90",
+    "mva": "37",
+    "descricao": "Queijo minas frescal"
+  },
+  {
+    "ncm": "0406.90",
+    "mva": "37",
+    "descricao": "Queijo cremoso (\"cream cheese\")"
+  },
+  {
+    "ncm": "0405.10.00",
+    "mva": "38",
+    "descricao": "Manteiga, em embalagem de conteúdo inferior ou igual a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "0405.90.90",
+    "mva": "38",
+    "descricao": "Manteiga de garrafa"
+  },
+  {
+    "ncm": "1517.10.00",
+    "mva": "30",
+    "descricao": "Margarina e creme vegetal em recipiente de conteúdo inferior ou igual a 500 g, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "1517.90",
+    "mva": "30",
+    "descricao": "Outras margarinas e cremes vegetais em recipiente de conteúdo inferior a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "1516.20.00",
+    "mva": "40",
+    "descricao": "Gorduras e óleos vegetais e respectivas frações, parcial ou totalmente hidrogenados, interesterificados, reesterificados ou elaidinizados, mesmo refinados, mas não preparados de outro modo, em recipiente de conteúdo inferior ou igual a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "1901.90.20",
+    "mva": "40",
+    "descricao": "Doces de leite"
+  },
+  {
+    "ncm": "1904.10.00",
+    "mva": "63",
+    "descricao": "Produtos à base de cereais, obtidos por expansão ou torrefação"
+  },
+  {
+    "ncm": "1904.90.00",
+    "mva": "63",
+    "descricao": "Produtos à base de cereais, obtidos por expansão ou torrefação"
+  },
+  {
+    "ncm": "1905.90.90",
+    "mva": "34",
+    "descricao": "Salgadinhos diversos, exceto os classificados no CEST 17.031.01 e 17.031.02"
+  },
+  {
+    "ncm": "2005.20.00",
+    "mva": "53",
+    "descricao": "Batata frita, inhame e mandioca fritos"
+  },
+  {
+    "ncm": "2005.9",
+    "mva": "53",
+    "descricao": "Batata frita, inhame e mandioca fritos"
+  },
+  {
+    "ncm": "2008.1",
+    "mva": "50",
+    "descricao": "Amendoim e castanhas tipo aperitivo, em embalagem de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "2103.20.10",
+    "mva": "50",
+    "descricao": "Catchup em embalagens imediatas de conteúdo inferior ou igual a 650 g, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "2103.90.21",
+    "mva": "50",
+    "descricao": "Condimentos e temperos compostos, incluindo molho de pimenta e outros molhos, em embalagens imediatas de conteúdo inferior ou igual a 1 kg, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 3 g"
+  },
+  {
+    "ncm": "2103.90.91",
+    "mva": "50",
+    "descricao": "Condimentos e temperos compostos, incluindo molho de pimenta e outros molhos, em embalagens imediatas de conteúdo inferior ou igual a 1 kg, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 3 g"
+  },
+  {
+    "ncm": "2103.10.10",
+    "mva": "50",
+    "descricao": "Molhos de soja preparados em embalagens imediatas de conteúdo inferior ou igual a 650 g, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "2103.30.10",
+    "mva": "50",
+    "descricao": "Farinha de mostarda em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "2103.30.21",
+    "mva": "50",
+    "descricao": "Mostarda preparada em embalagens imediatas de conteúdo inferior ou igual a 650 g, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "2103.90.11",
+    "mva": "50",
+    "descricao": "Maionese em embalagens imediatas de conteúdo inferior ou igual a 650 g, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "2002",
+    "mva": "41",
+    "descricao": "Tomates preparados ou conservados, exceto em vinagre ou em ácido acético, em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "1904.20.00",
+    "mva": "63",
+    "descricao": "Barra de cereais"
+  },
+  {
+    "ncm": "1101.00.10",
+    "mva": "30",
+    "descricao": "Farinha de trigo especial, em embalagem inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "1101.00.20",
+    "mva": "30",
+    "descricao": "Farinha de mistura de trigo com centeio (méteil)"
+  },
+  {
+    "ncm": "1901.20.00",
+    "mva": "42",
+    "descricao": "Misturas e preparações para bolos, em embalagem inferior 5 kg"
+  },
+  {
+    "ncm": "1901.90.90",
+    "mva": "42",
+    "descricao": "Misturas e preparações para bolos, em embalagem inferior 5 kg"
+  },
+  {
+    "ncm": "1902.30.00",
+    "mva": "38",
+    "descricao": "Massas alimentícias tipo instantânea, exceto as descritas no CEST 17047.01."
+  },
+  {
+    "ncm": "1902",
+    "mva": "38",
+    "descricao": "Massas alimentícias, cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, exceto as descritas nos CEST 17.047.00, 17.048.01,e 17.048.02"
+  },
+  {
+    "ncm": "1902.40.00",
+    "mva": "38",
+    "descricao": "Cuscuz"
+  },
+  {
+    "ncm": "1902.20.00",
+    "mva": "38",
+    "descricao": "Massas alimentícias recheadas (mesmo cozidas ou preparadas de outro modo)"
+  },
+  {
+    "ncm": "1902.1",
+    "mva": "38",
+    "descricao": "Massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, não derivadas do trigo"
+  },
+  {
+    "ncm": "1902.11.00",
+    "mva": "38",
+    "descricao": "Massas alimentícias do tipo grano duro, não cozidas, nem recheadas, nem preparadas de outro modo, que contenham ovos"
+  },
+  {
+    "ncm": "1902.19.00",
+    "mva": "38",
+    "descricao": "Outras massas alimentícias do tipo comum, não cozidas, nem recheadas, nem preparadas de outro modo, que não contenham ovos, derivadas de farinha de trigo"
+  },
+  {
+    "ncm": "1905.20",
+    "mva": "28",
+    "descricao": "Pães industrializados, inclusive de especiarias, exceto panetones e bolo de forma"
+  },
+  {
+    "ncm": "1905.20.90",
+    "mva": "28",
+    "descricao": "Bolo de forma, inclusive de especiarias"
+  },
+  {
+    "ncm": "1905.20.10",
+    "mva": "28",
+    "descricao": "Panetones"
+  },
+  {
+    "ncm": "1905.31.00",
+    "mva": "34",
+    "descricao": "Biscoitos e bolachas derivados de farinha de trigo; (exceto dos tipos \"cream cracker\", \"água e sal\", \"maisena\", \"maria\" e outros de consumo popular que não sejam adicionados de cacau,nem recheados, cobertos ou amanteigados, independentemente de sua denominação comercial)"
+  },
+  {
+    "ncm": "1905.90.20",
+    "mva": "34",
+    "descricao": "Biscoitos e bolachas derivados de farinha de trigo dos tipos \"cream cracker\" e \"água e sal\""
+  },
+  {
+    "ncm": "1905.32.00",
+    "mva": "34",
+    "descricao": "\"Waffles\" e \"wafers\" - sem cobertura"
+  },
+  {
+    "ncm": "1905.40.00",
+    "mva": "28",
+    "descricao": "Torradas, pão torrado e produtos semelhantes torrados"
+  },
+  {
+    "ncm": "1905.90.10",
+    "mva": "28",
+    "descricao": "Outros pães de forma"
+  },
+  {
+    "ncm": "1905.10.00",
+    "mva": "28",
+    "descricao": "Pão denominado knackebrot"
+  },
+  {
+    "ncm": "1905.90",
+    "mva": "28",
+    "descricao": "Demais pães industrializados"
+  },
+  {
+    "ncm": "1507.90.11",
+    "mva": "40",
+    "descricao": "Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1508",
+    "mva": "42",
+    "descricao": "Óleo de amendoim refinado, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1509",
+    "mva": "35",
+    "descricao": "Azeites de oliva, em recipientes com capacidade inferior a 2 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 20 mililitros"
+  },
+  {
+    "ncm": "1510",
+    "mva": "46",
+    "descricao": "Outros óleos e respectivas frações, obtidos exclusivamente a partir de azeitonas, mesmo refinados, mas não quimicamente modificados, e misturas desses óleos ou frações com óleos ou frações da posição 15.09, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1512.19.11",
+    "mva": "40",
+    "descricao": "Óleo de girassol em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1512.29.10",
+    "mva": "40",
+    "descricao": "Óleo de algodão refinado em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1514.1",
+    "mva": "40",
+    "descricao": "Óleo de canola, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1515.19.00",
+    "mva": "40",
+    "descricao": "Óleo de linhaça refinado, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1515.29.10",
+    "mva": "40",
+    "descricao": "Óleo de milho refinado, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1512.29.90",
+    "mva": "40",
+    "descricao": "Outros óleos refinados, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1517.90.10",
+    "mva": "37",
+    "descricao": "Misturas de óleos refinados, para consumo humano, em recipientes com capacidade inferior ou igual a 5 litros, exceto as embalagens individuais de conteúdo inferior ou igual a 15 mililitros"
+  },
+  {
+    "ncm": "1511",
+    "mva": "40",
+    "descricao": "Outros óleos vegetais comestíveis não especificados anteriormente"
+  },
+  {
+    "ncm": "1513",
+    "mva": "40",
+    "descricao": "Outros óleos vegetais comestíveis não especificados anteriormente"
+  },
+  {
+    "ncm": "1514",
+    "mva": "40",
+    "descricao": "Outros óleos vegetais comestíveis não especificados anteriormente"
+  },
+  {
+    "ncm": "1515",
+    "mva": "40",
+    "descricao": "Outros óleos vegetais comestíveis não especificados anteriormente"
+  },
+  {
+    "ncm": "1516",
+    "mva": "40",
+    "descricao": "Outros óleos vegetais comestíveis não especificados anteriormente"
+  },
+  {
+    "ncm": "1518",
+    "mva": "40",
+    "descricao": "Outros óleos vegetais comestíveis não especificados anteriormente"
+  },
+  {
+    "ncm": "1601.00.00",
+    "mva": "38",
+    "descricao": "Enchidos (embutidos) e produtos semelhantes, de carne, miudezas ou sangue; exceto salsicha, linguiça e mortadela"
+  },
+  {
+    "ncm": "16.02",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, miudezas ou de sangue, exceto as descritas nos CEST 17.079.01, 17.079.02, 17.079.03, 17.079.04, 17.079.05, 17.079.06 e 17.079.07"
+  },
+  {
+    "ncm": "1602.31.00",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, de miudezas ou de sangue, de aves da posição 01.05: de peruas e de perus."
+  },
+  {
+    "ncm": "1602.32.10",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, de miudezas ou de sangue, de aves da posição 01.05: de galos e de galinhas, com conteúdo de carne ou de miudezas superior ou igual a 57%, em peso, não cozidas"
+  },
+  {
+    "ncm": "1602.32.20",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, de miudezas ou de sangue, todas de aves da posição 01.05: de galos e de galinhas, com conteúdo de carne ou de miudezas superior ou igual a 57 %, em peso, cozidas"
+  },
+  {
+    "ncm": "1602.41.00",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, de miudezas ou de sangue, da espécie suína: pernas e respectivos pedaços"
+  },
+  {
+    "ncm": "1602.49.00",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, de miudezas ou de sangue, da espécie suína: outras, incluindo as misturas, exceto os descritos no CEST 17.079.07"
+  },
+  {
+    "ncm": "1602.50.00",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de carne, de miudezas ou de sangue, da espécie bovina"
+  },
+  {
+    "ncm": "1604",
+    "mva": "38",
+    "descricao": "Preparações e conservas de peixes; caviar e seus sucedâneos preparados a partir de ovas de peixe; exceto os descritos nos CEST 17.080.01 e 17.081.00"
+  },
+  {
+    "ncm": "1604.20.10",
+    "mva": "38",
+    "descricao": "Outras preparações e conservas de atuns"
+  },
+  {
+    "ncm": "1605",
+    "mva": "42",
+    "descricao": "Crustáceos, moluscos e outros invertebrados aquáticos, preparados ou em conservas"
+  },
+  {
+    "ncm": "2001",
+    "mva": "53",
+    "descricao": "Produtos hortícolas, frutas e outras partes comestíveis de plantas, preparados ou conservados em vinagre ou em ácido acético, em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "2004",
+    "mva": "42",
+    "descricao": "Outros produtos hortícolas preparados ou conservados, exceto em vinagre ou em ácido acético, congelados, com exceção dos produtos da posição 20.06, em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "2005",
+    "mva": "53",
+    "descricao": "Outros produtos hortícolas preparados ou conservados, exceto em vinagre ou em ácido acético, não congelados, com exceção dos produtos da posição 20.06, excluídos batata, inhame e mandioca fritos, em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "2006.00.00",
+    "mva": "42",
+    "descricao": "Produtos hortícolas, frutas, cascas de frutas e outras partes de plantas, conservados com açúcar (passados por calda, glaceados ou cristalizados), em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "2007",
+    "mva": "58",
+    "descricao": "Doces, geleias, \"marmelades\", purês e pastas de frutas, obtidos por cozimento, com ou sem adição de açúcar ou de outros edulcorantes, em embalagens de conteúdo inferior ou igual a 1 kg, exceto as embalagens individuais de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "2008",
+    "mva": "41",
+    "descricao": "Frutas e outras partes comestíveis de plantas, preparadas ou conservadas de outro modo, com ou sem adição de açúcar ou de outros edulcorantes ou de álcool, não especificadas nem compreendidas em outras posições, excluídos os amendoins e castanhas tipo aperitivo, da posição 2008.1, em embalagens de conteúdo inferior ou igual a 1 kg"
+  },
+  {
+    "ncm": "0902",
+    "mva": "70",
+    "descricao": "Chá, mesmo aromatizado"
+  },
+  {
+    "ncm": "1211.90.90",
+    "mva": "70",
+    "descricao": "Chá, mesmo aromatizado"
+  },
+  {
+    "ncm": "2106.90.90",
+    "mva": "70",
+    "descricao": "Chá, mesmo aromatizado"
+  },
+  {
+    "ncm": "0903.00",
+    "mva": "70",
+    "descricao": "Mate"
+  },
+  {
+    "ncm": "1701.1",
+    "mva": "40",
+    "descricao": "Açúcar refinado, em embalagens de conteúdo inferior ou igual a 2 kg, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "1701.99.00",
+    "mva": "40",
+    "descricao": "Açúcar refinado, em embalagens de conteúdo inferior ou igual a 2 kg, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "1701.91.00",
+    "mva": "40",
+    "descricao": "Açúcar refinado adicionado de aromatizante ou de corante em embalagens de conteúdo inferior ou igual a 2 kg, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "1701.91",
+    "mva": "40",
+    "descricao": "Açúcar cristal adicionado de aromatizante ou de corante, em embalagens de conteúdo superior a 5 kg"
+  },
+  {
+    "ncm": "1702",
+    "mva": "40",
+    "descricao": "Outros açúcares em embalagens de conteúdo inferior ou igual a 2 kg, exceto as embalagens contendo envelopes individualizados (sachês) de conteúdo inferior ou igual a 10 g"
+  },
+  {
+    "ncm": "2008.19.00",
+    "mva": "41",
+    "descricao": "Milho para pipoca (micro-ondas)"
+  },
+  {
+    "ncm": "2101.1",
+    "mva": "42",
+    "descricao": "Extratos, essências e concentrados de café e preparações à base destes extratos, essências ou concentrados ou à base de café, em embalagens de conteúdo inferior ou igual a 500 g, exceto os classificados no CEST 17.107.01"
+  },
+  {
+    "ncm": "2101.20",
+    "mva": "42",
+    "descricao": "Extratos, essências e concentrados de chá ou de mate e preparações à base destes extratos, essências ou concentrados ou à base de chá ou de mate, em embalagens de conteúdo inferior ou igual a 500 g, exceto as bebidas prontas à base de mate ou chá e os itens classificados no CEST 17.108.01"
+  },
+  {
+    "ncm": "2101.11.90",
+    "mva": "42",
+    "descricao": "Preparações em pó para cappuccino e similares, em embalagens de conteúdo inferior ou igual a 500 g"
+  },
+  {
+    "ncm": "2101.12.00",
+    "mva": "42",
+    "descricao": "Preparações em pó para cappuccino e similares, em embalagens de conteúdo inferior ou igual a 500 g"
+  },
+  {
+    "ncm": "1806.20.00",
+    "mva": "40",
+    "descricao": "Outras preparações em blocos ou em barras, com peso superior a 2kg, ou no estado líquido, em pasta, em pó, grânulos ou formas semelhantes, em recipientes ou embalagens imediatas de conteúdo superior a 2kg"
+  },
+  {
+    "ncm": "4802.20.90",
+    "mva": "49",
+    "descricao": "Bobina para fax"
+  },
+  {
+    "ncm": "4811.90.90",
+    "mva": "49",
+    "descricao": "Bobina para fax"
+  },
+  {
+    "ncm": "4802.54.9",
+    "mva": "49",
+    "descricao": "Papel seda"
+  },
+  {
+    "ncm": "4802.54.99",
+    "mva": "49",
+    "descricao": "Bobina para máquina de calcular, PDV ou equipamentos similares"
+  },
+  {
+    "ncm": "4802.57.99",
+    "mva": "49",
+    "descricao": "Bobina para máquina de calcular, PDV ou equipamentos similares"
+  },
+  {
+    "ncm": "4816.20.00",
+    "mva": "49",
+    "descricao": "Bobina para máquina de calcular, PDV ou equipamentos similares"
+  },
+  {
+    "ncm": "4802.56.9",
+    "mva": "49",
+    "descricao": "Cartolina escolar e papel cartão, brancos e coloridos, cortados em folhas em que um lado seja inferior ou igual a 500 mm e o outro inferior ou igual a 700 mm, quando não dobradas, e peso igual ou superior a 120g/m²; recados autoadesivos (LP note); papéis de presente; todos cortados em tamanho pronto para uso escolar e doméstico"
+  },
+  {
+    "ncm": "4802.57.9",
+    "mva": "49",
+    "descricao": "Cartolina escolar e papel cartão, brancos e coloridos, cortados em folhas em que um lado seja inferior ou igual a 500 mm e o outro inferior ou igual a 700 mm, quando não dobradas, e peso igual ou superior a 120g/m²; recados autoadesivos (LP note); papéis de presente; todos cortados em tamanho pronto para uso escolar e doméstico"
+  },
+  {
+    "ncm": "4802.58.9",
+    "mva": "49",
+    "descricao": "Cartolina escolar e papel cartão, brancos e coloridos, cortados em folhas em que um lado seja inferior ou igual a 500 mm e o outro inferior ou igual a 700 mm, quando não dobradas, e peso igual ou superior a 120g/m²; recados autoadesivos (LP note); papéis de presente; todos cortados em tamanho pronto para uso escolar e doméstico"
+  },
+  {
+    "ncm": "4806.20.00",
+    "mva": "82",
+    "descricao": "Papel impermeável"
+  },
+  {
+    "ncm": "4808.10.00",
+    "mva": "82",
+    "descricao": "Papel crepon"
+  },
+  {
+    "ncm": "4810.22.90",
+    "mva": "43",
+    "descricao": "Papel fantasia"
+  },
+  {
+    "ncm": "4809",
+    "mva": "99",
+    "descricao": "Papel-carbono, papel autocopiativo (exceto os vendidos em rolos de diâmetro igual ou superior a 60 cm e os vendidos em folhas de formato igual ou superior a 60 cm de altura e igual ou superior a 90 cm de largura) e outros papéis para cópia ou duplicação (incluídos os papéis para estênceis ou para chapas ofsete), estênceis completos e chapas ofsete, de papel, em folhas, mesmo acondicionados em caixas"
+  },
+  {
+    "ncm": "4816",
+    "mva": "99",
+    "descricao": "Papel-carbono, papel autocopiativo (exceto os vendidos em rolos de diâmetro igual ou superior a 60 cm e os vendidos em folhas de formato igual ou superior a 60 cm de altura e igual ou superior a 90 cm de largura) e outros papéis para cópia ou duplicação (incluídos os papéis para estênceis ou para chapas ofsete), estênceis completos e chapas ofsete, de papel, em folhas, mesmo acondicionados em caixas"
+  },
+  {
+    "ncm": "4817",
+    "mva": "37",
+    "descricao": "Envelopes, aerogramas, bilhetes- postais não ilustrados e cartões para correspondência, de papel ou cartão, caixas, sacos e semelhantes, de papel ou cartão, contendo um sortido de artigos para correspondência"
+  },
+  {
+    "ncm": "4820.10.00",
+    "mva": "87",
+    "descricao": "Livros de registro e de contabilidade, blocos de notas, de encomendas, de recibos, de apontamentos, de papel para cartas, agendas e artigos semelhantes"
+  },
+  {
+    "ncm": "4820.20.00",
+    "mva": "66",
+    "descricao": "Cadernos"
+  },
+  {
+    "ncm": "4820.30.00",
+    "mva": "73",
+    "descricao": "Classificadores, capas para encadernação (exceto as capas para livros) e capas de processos"
+  },
+  {
+    "ncm": "4820.40.00",
+    "mva": "31",
+    "descricao": "Formulários em blocos tipo \"manifold\", mesmo com folhas intercaladas de papel-carbono"
+  },
+  {
+    "ncm": "4820.50.00",
+    "mva": "70",
+    "descricao": "Álbuns para amostras ou para coleções"
+  },
+  {
+    "ncm": "4820.90.00",
+    "mva": "88",
+    "descricao": "Pastas para documentos, outros artigos escolares, de escritório ou de papelaria, de papel ou cartão e capas para livros, de papel ou cartão"
+  },
+  {
+    "ncm": "4909.00.00",
+    "mva": "111",
+    "descricao": "Cartões postais impressos ou ilustrados, cartões impressos com votos ou mensagens pessoais, mesmo ilustrados, com ou sem envelopes, guarnições ou aplicações (conhecidos como cartões de expressão social - de época/sentimento)"
+  },
+  {
+    "ncm": "4802.56",
+    "mva": "36",
+    "descricao": "Papel cortado \"cutsize\" (tipo A3, A4, ofício I e II, carta e outros)"
+  },
+  {
+    "ncm": "2712.10.00",
+    "mva": "70",
+    "descricao": "Vaselina"
+  },
+  {
+    "ncm": "2814.20.00",
+    "mva": "70",
+    "descricao": "Amoníaco em solução aquosa (amônia)"
+  },
+  {
+    "ncm": "2847.00.00",
+    "mva": "70",
+    "descricao": "Peróxido de hidrogênio, em embalagens de conteúdo inferior ou igual a 500 ml"
+  },
+  {
+    "ncm": "3301",
+    "mva": "70",
+    "descricao": "Óleos essenciais (desterpenados ou não), incluídos os chamados \"concretos\" ou \"absolutos\"; resinoides; oleorresinas de extração; soluções concentradas de óleos essenciais em gorduras, em óleos fixos, em ceras ou em matérias análogas, obtidas por tratamento de flores através de substâncias gordas ou por maceração; subprodutos terpênicos residuais da desterpenação dos óleos essenciais; águas destiladas aromáticas e soluções aquosas de óleos essenciais, em embalagens de conteúdo inferior ou igual a 500 ml"
+  },
+  {
+    "ncm": "3303.00.10",
+    "mva": "70",
+    "descricao": "Perfumes (extratos)"
+  },
+  {
+    "ncm": "3303.00.20",
+    "mva": "70",
+    "descricao": "Águas-de-colônia"
+  },
+  {
+    "ncm": "3304.10.00",
+    "mva": "70",
+    "descricao": "Produtos de maquilagem para os lábios"
+  },
+  {
+    "ncm": "3304.20.10",
+    "mva": "70",
+    "descricao": "Sombra, delineador, lápis para sobrancelhas e rímel"
+  },
+  {
+    "ncm": "3304.20.90",
+    "mva": "70",
+    "descricao": "Outros produtos de maquilagem para os olhos"
+  },
+  {
+    "ncm": "3304.30.00",
+    "mva": "70",
+    "descricao": "Preparações para manicuros e pedicuros, incluindo removedores de esmalte à base de acetona"
+  },
+  {
+    "ncm": "3304.91.00",
+    "mva": "70",
+    "descricao": "Pós, incluídos os compactos"
+  },
+  {
+    "ncm": "3304.99.10",
+    "mva": "70",
+    "descricao": "Cremes de beleza, cremes nutritivos e loções tônicas"
+  },
+  {
+    "ncm": "3304.99.90",
+    "mva": "70",
+    "descricao": "Outros produtos de beleza ou de maquilagem preparados e preparações para conservação ou cuidados da pele, exceto as preparações solares e antissolares"
+  },
+  {
+    "ncm": "3305.10.00",
+    "mva": "70",
+    "descricao": "Xampus para o cabelo"
+  },
+  {
+    "ncm": "3305.20.00",
+    "mva": "70",
+    "descricao": "Preparações para ondulação ou alisamento, permanentes, dos cabelos"
+  },
+  {
+    "ncm": "3305.30.00",
+    "mva": "70",
+    "descricao": "Laquês para o cabelo"
+  },
+  {
+    "ncm": "3305.90.00",
+    "mva": "70",
+    "descricao": "Outras preparações capilares, incluindo máscaras e finalizadores"
+  },
+  {
+    "ncm": "3306.10.00",
+    "mva": "59",
+    "descricao": "Dentifrícios"
+  },
+  {
+    "ncm": "3306.20.00",
+    "mva": "59",
+    "descricao": "Fios utilizados para limpar os espaços interdentais (fios dentais)"
+  },
+  {
+    "ncm": "3306.90.00",
+    "mva": "59",
+    "descricao": "Outras preparações para higiene bucal ou dentária"
+  },
+  {
+    "ncm": "3307.10.00",
+    "mva": "70",
+    "descricao": "Preparações para barbear (antes, durante ou após)"
+  },
+  {
+    "ncm": "3307.20.10",
+    "mva": "70",
+    "descricao": "Desodorantes (desodorizantes) corporais líquidos, exceto os classificados no CEST 20.027.01"
+  },
+  {
+    "ncm": "3307.20.90",
+    "mva": "70",
+    "descricao": "Outros desodorantes (desodorizantes) corporais, exceto os classificados no CEST 20.029.01"
+  },
+  {
+    "ncm": "3307.30.00",
+    "mva": "70",
+    "descricao": "Sais perfumados e outras preparações para banhos"
+  },
+  {
+    "ncm": "3307.90.00",
+    "mva": "70",
+    "descricao": "Outros produtos de perfumaria preparados"
+  },
+  {
+    "ncm": "3401.11.90",
+    "mva": "70",
+    "descricao": "Sabões de toucador em barras, pedaços ou figuras moldados, exceto CEST 20.034.01"
+  },
+  {
+    "ncm": "3401.19.00",
+    "mva": "70",
+    "descricao": "Outros sabões, produtos e preparações, em barras, pedaços ou figuras moldados"
+  },
+  {
+    "ncm": "3401.20.10",
+    "mva": "70",
+    "descricao": "Sabões de toucador sob outras formas"
+  },
+  {
+    "ncm": "3401.30.00",
+    "mva": "70",
+    "descricao": "Produtos e preparações orgânicos tensoativos para lavagem da pele, na forma de líquido ou de creme, acondicionados para venda a retalho, mesmo contendo sabão"
+  },
+  {
+    "ncm": "4014.90.90",
+    "mva": "59",
+    "descricao": "Chupetas e bicos para mamadeiras e para chupetas, de borracha"
+  },
+  {
+    "ncm": "3924.90.00",
+    "mva": "59",
+    "descricao": "Chupetas e bicos para mamadeiras e para chupetas, de silicone"
+  },
+  {
+    "ncm": "3926.90.40",
+    "mva": "59",
+    "descricao": "Chupetas e bicos para mamadeiras e para chupetas, de silicone"
+  },
+  {
+    "ncm": "4818.10.00",
+    "mva": "70",
+    "descricao": "Papel higiênico - folha simples"
+  },
+  {
+    "ncm": "4818.20.00",
+    "mva": "70",
+    "descricao": "Lenços (incluídos os de maquilagem) e toalhas de mão"
+  },
+  {
+    "ncm": "4818.30.00",
+    "mva": "70",
+    "descricao": "Toalhas e guardanapos de mesa"
+  },
+  {
+    "ncm": "4818.90.90",
+    "mva": "70",
+    "descricao": "Toalhas de cozinha (papel toalha de uso doméstico)"
+  },
+  {
+    "ncm": "9619.00.00",
+    "mva": "59",
+    "descricao": "Fraldas, exceto os descritos no CEST 20.048.01"
+  },
+  {
+    "ncm": "5601.21.90",
+    "mva": "59",
+    "descricao": "Hastes flexíveis (uso não medicinal)"
+  },
+  {
+    "ncm": "5603.92.90",
+    "mva": "59",
+    "descricao": "Sutiã descartável, assemelhados e papel para depilação"
+  },
+  {
+    "ncm": "8203.20.90",
+    "mva": "70",
+    "descricao": "Pinças para sobrancelhas"
+  },
+  {
+    "ncm": "8214.10.00",
+    "mva": "70",
+    "descricao": "Espátulas (artigos de cutelaria)"
+  },
+  {
+    "ncm": "8214.20.00",
+    "mva": "70",
+    "descricao": "Utensílios e sortidos de utensílios de manicuros ou de pedicuros (incluídas as limas para unhas)"
+  },
+  {
+    "ncm": "9025.11.10",
+    "mva": "70",
+    "descricao": "Termômetros, inclusive o digital"
+  },
+  {
+    "ncm": "9603.2",
+    "mva": "59",
+    "descricao": "Escovas e pincéis de barba, escovas para cabelos, para cílios ou para unhas e outras escovas de toucador de pessoas, incluídas as que sejam partes de aparelhos, exceto escovas de dentes"
+  },
+  {
+    "ncm": "9603.21.00",
+    "mva": "59",
+    "descricao": "Escovas de dentes, incluídas as escovas para dentaduras"
+  },
+  {
+    "ncm": "9603.30.00",
+    "mva": "70",
+    "descricao": "Pincéis para aplicação de produtos cosméticos"
+  },
+  {
+    "ncm": "9605.00.00",
+    "mva": "70",
+    "descricao": "Sortidos de viagem, para toucador de pessoas para costura ou para limpeza de calçado ou de roupas"
+  },
+  {
+    "ncm": "9615",
+    "mva": "70",
+    "descricao": "Pentes, travessas para cabelo e artigos semelhantes; grampos (alfinetes) para cabelo; pinças (pinceguiches), onduladores, bobes (rolos) e artefatos semelhantes para penteados, e suas partes, exceto os classificados na posição 8516 e suas partes"
+  },
+  {
+    "ncm": "9616.20.00",
+    "mva": "70",
+    "descricao": "Borlas ou esponjas para pós ou para aplicação de outros cosméticos ou de produtos de toucador"
+  },
+  {
+    "ncm": "3923.30.90",
+    "mva": "59",
+    "descricao": "Mamadeiras"
+  },
+  {
+    "ncm": "8212.10.20",
+    "mva": "30",
+    "descricao": "Aparelhos e lâminas de barbear"
+  },
+  {
+    "ncm": "8212.20.10",
+    "mva": "30",
+    "descricao": "Aparelhos e lâminas de barbear"
+  },
+  {
+    "ncm": "5601.21.10",
+    "mva": "59",
+    "descricao": "Algodão hidrófilo, não estéril, destinado à higiene pessoal."
+  },
+  {
+    "ncm": "7321.11.00",
+    "mva": "70",
+    "descricao": "Fogões de cozinha de uso doméstico e suas partes"
+  },
+  {
+    "ncm": "7321.81.00",
+    "mva": "70",
+    "descricao": "Fogões de cozinha de uso doméstico e suas partes"
+  },
+  {
+    "ncm": "7321.90.00",
+    "mva": "70",
+    "descricao": "Fogões de cozinha de uso doméstico e suas partes"
+  },
+  {
+    "ncm": "8418.10.00",
+    "mva": "70",
+    "descricao": "Combinações de refrigeradores e congeladores (\"freezers\"), munidos de portas exteriores separadas"
+  },
+  {
+    "ncm": "8418.21.00",
+    "mva": "70",
+    "descricao": "Refrigeradores do tipo doméstico, de compressão"
+  },
+  {
+    "ncm": "8418.29.00",
+    "mva": "70",
+    "descricao": "Outros refrigeradores do tipo doméstico"
+  },
+  {
+    "ncm": "8418.30.00",
+    "mva": "70",
+    "descricao": "Congeladores (\"freezers\") horizontais tipo arca, de capacidade não superior a 800 litros"
+  },
+  {
+    "ncm": "8418.40.00",
+    "mva": "70",
+    "descricao": "Congeladores (\"freezers\") verticais tipo armário, de capacidade não superior a 900 litros"
+  },
+  {
+    "ncm": "8418.50",
+    "mva": "53",
+    "descricao": "Outros móveis (arcas, armários, vitrines, balcões e móveis semelhantes) para a conservação e exposição de produtos, que incorporem um equipamento para a produção de frio"
+  },
+  {
+    "ncm": "8418.69.9",
+    "mva": "70",
+    "descricao": "Mini adega e similares"
+  },
+  {
+    "ncm": "8418.69.99",
+    "mva": "70",
+    "descricao": "Máquinas para produção de gelo"
+  },
+  {
+    "ncm": "8421.12",
+    "mva": "70",
+    "descricao": "Secadoras de roupa de uso doméstico"
+  },
+  {
+    "ncm": "8421.19.90",
+    "mva": "70",
+    "descricao": "Outras secadoras de roupas e centrífugas de uso doméstico"
+  },
+  {
+    "ncm": "8418.69.31",
+    "mva": "70",
+    "descricao": "Bebedouros refrigerados para água"
+  },
+  {
+    "ncm": "8422.11.00",
+    "mva": "70",
+    "descricao": "Máquinas de lavar louça do tipo doméstico e suas partes"
+  },
+  {
+    "ncm": "8422.90.10",
+    "mva": "70",
+    "descricao": "Máquinas de lavar louça do tipo doméstico e suas partes"
+  },
+  {
+    "ncm": "8443.31",
+    "mva": "29",
+    "descricao": "Máquinas que executem pelo menos duas das seguintes funções: impressão, cópia ou transmissão de telecópia (fax), capazes de ser conectadas a uma máquina automática para processamento de dados ou a uma rede"
+  },
+  {
+    "ncm": "8443.32",
+    "mva": "29",
+    "descricao": "Outras impressoras, máquinas copiadoras e telecopiadores (fax), mesmo combinados entre si, capazes de ser conectados a uma máquina automática para processamento de dados ou a uma rede"
+  },
+  {
+    "ncm": "8450.11.00",
+    "mva": "70",
+    "descricao": "Máquinas de lavar roupa, mesmo com dispositivos de secagem, de uso doméstico, de capacidade não superior a 10 kg, em peso de roupa seca, inteiramente automáticas"
+  },
+  {
+    "ncm": "8450.12.00",
+    "mva": "70",
+    "descricao": "Outras máquinas de lavar roupa, mesmo com dispositivos de secagem, de uso doméstico, com secador centrífugo incorporado"
+  },
+  {
+    "ncm": "8450.19.00",
+    "mva": "70",
+    "descricao": "Outras máquinas de lavar roupa, mesmo com dispositivos de secagem, de uso doméstico"
+  },
+  {
+    "ncm": "8450.20",
+    "mva": "70",
+    "descricao": "Máquinas de lavar roupa, mesmo com dispositivos de secagem, de uso doméstico, de capacidade superior a 10 kg, em peso de roupa seca"
+  },
+  {
+    "ncm": "8451.21.00",
+    "mva": "70",
+    "descricao": "Máquinas de secar de uso doméstico de capacidade não superior a 10 kg, em peso de roupa seca"
+  },
+  {
+    "ncm": "8451.29.90",
+    "mva": "70",
+    "descricao": "Outras máquinas de secar de uso doméstico"
+  },
+  {
+    "ncm": "8452.10.00",
+    "mva": "70",
+    "descricao": "Máquinas de costura de uso doméstico"
+  },
+  {
+    "ncm": "8471.30",
+    "mva": "27",
+    "descricao": "Máquinas automáticas para processamento de dados, portáteis, de peso não superior a 10 kg, contendo pelo menos uma unidade central de processamento, um teclado e uma tela"
+  },
+  {
+    "ncm": "8471.4",
+    "mva": "27",
+    "descricao": "Outras máquinas automáticas para processamento de dados"
+  },
+  {
+    "ncm": "8504.3",
+    "mva": "70",
+    "descricao": "Outros transformadores, exceto os classificados nos códigos 8504.33.00 e 8504.34.00"
+  },
+  {
+    "ncm": "8508",
+    "mva": "70",
+    "descricao": "Aspiradores"
+  },
+  {
+    "ncm": "8509",
+    "mva": "70",
+    "descricao": "Aparelhos eletromecânicos de motor elétrico incoporado, de uso doméstico e suas partes"
+  },
+  {
+    "ncm": "8509.80.10",
+    "mva": "70",
+    "descricao": "Enceradeiras"
+  },
+  {
+    "ncm": "8516.10.00",
+    "mva": "70",
+    "descricao": "Chaleiras elétricas"
+  },
+  {
+    "ncm": "8516.40.00",
+    "mva": "70",
+    "descricao": "Ferros elétricos de passar"
+  },
+  {
+    "ncm": "8516.50.00",
+    "mva": "42",
+    "descricao": "Fornos de micro-ondas"
+  },
+  {
+    "ncm": "8516.60.00",
+    "mva": "70",
+    "descricao": "Outros fornos; fogareiros (incluídas as chapas de cocção), grelhas e assadeiras, exceto os portáteis"
+  },
+  {
+    "ncm": "8516.71.00",
+    "mva": "70",
+    "descricao": "Outros aparelhos eletrotérmicos de uso doméstico - Cafeteiras"
+  },
+  {
+    "ncm": "8516.72.00",
+    "mva": "70",
+    "descricao": "Outros aparelhos eletrotérmicosde uso doméstico - Torradeiras"
+  },
+  {
+    "ncm": "8516.79",
+    "mva": "70",
+    "descricao": "Outros aparelhos eletrotérmicos de uso doméstico"
+  },
+  {
+    "ncm": "8517.11.00",
+    "mva": "29",
+    "descricao": "Aparelhos telefônicos por fio com unidade auscultador - microfone sem fio"
+  },
+  {
+    "ncm": "8517.13.00",
+    "mva": "29",
+    "descricao": "Telefones inteligentes (\"smartphones\") e para redes celulares, excetos por satélite, os de uso automotivo e os classificados nos CEST 21.053.01"
+  },
+  {
+    "ncm": "8517.14.3",
+    "mva": "29",
+    "descricao": "Telefones inteligentes (\"smartphones\") e para redes celulares, excetos por satélite, os de uso automotivo e os classificados nos CEST 21.053.01"
+  },
+  {
+    "ncm": "8517.14.31",
+    "mva": "29",
+    "descricao": "Telefones inteligentes (\"smartphones\") e para redes celulares portáteis, excetos por satélite"
+  },
+  {
+    "ncm": "8517.14",
+    "mva": "29",
+    "descricao": "Outros telefones para outras redes sem fio, excetos os de uso automotivo e os classificados nos CEST 21.053.00 e 21.053.01"
+  },
+  {
+    "ncm": "8517.18.30",
+    "mva": "50",
+    "descricao": "Outros aparelhos telefônicos não combinados com outros aparelhos"
+  },
+  {
+    "ncm": "8519",
+    "mva": "30",
+    "descricao": "Aparelhos de radiodifusão suscetíveis de funcionarem sem fonte externa de energia. Aparelhos de gravação de som; aparelhos de reprodução de som; aparelhos de gravação e de reprodução de som; partes e acessórios; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "8522",
+    "mva": "30",
+    "descricao": "Aparelhos de radiodifusão suscetíveis de funcionarem sem fonte externa de energia. Aparelhos de gravação de som; aparelhos de reprodução de som; aparelhos de gravação e de reprodução de som; partes e acessórios; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "8527.1",
+    "mva": "30",
+    "descricao": "Aparelhos de radiodifusão suscetíveis de funcionarem sem fonte externa de energia. Aparelhos de gravação de som; aparelhos de reprodução de som; aparelhos de gravação e de reprodução de som; partes e acessórios; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "8521.90.10",
+    "mva": "32.5",
+    "descricao": "Gravador-reprodutor e editor de imagem e som, em discos, por meio magnético, óptico ou optomagnético, exceto de uso automotivo"
+  },
+  {
+    "ncm": "8525.89.2",
+    "mva": "25.4",
+    "descricao": "Câmeras fotográficas digitais e câmeras de vídeo"
+  },
+  {
+    "ncm": "8527.9",
+    "mva": "33.8",
+    "descricao": "Outros aparelhos receptores para radiodifusão, mesmo combinados num invólucro, com um aparelho de gravação ou de reprodução de som, ou com um relógio, inclusive caixa acústica para Home Theaters classificados na posição 8518"
+  },
+  {
+    "ncm": "8528.49.90",
+    "mva": "31",
+    "descricao": "Monitores e projetores que não incorporem aparelhos receptores de televisão, policromáticos"
+  },
+  {
+    "ncm": "8528.59.00",
+    "mva": "31",
+    "descricao": "Monitores e projetores que não incorporem aparelhos receptores de televisão, policromáticos"
+  },
+  {
+    "ncm": "8528.69",
+    "mva": "31",
+    "descricao": "Monitores e projetores que não incorporem aparelhos receptores de televisão, policromáticos"
+  },
+  {
+    "ncm": "8528.62.00",
+    "mva": "31",
+    "descricao": "Projetores capazes de serem conectados diretamente a uma máquina automática para processamento de dados da posição 84.71 e concebidos para serem utilizados com esta máquina"
+  },
+  {
+    "ncm": "8528.7",
+    "mva": "32.6",
+    "descricao": "Aparelhos receptores de televisão, mesmo que incorporem um aparelho receptor de radiodifusão ou um aparelho de gravação ou reprodução de som ou de imagens - Televisores de CRT (tubo de raios catódicos)"
+  },
+  {
+    "ncm": "9006.59",
+    "mva": "70",
+    "descricao": "Câmeras fotográficas dos tipos utilizadas para preparação de clichês ou cilindros de impressão"
+  },
+  {
+    "ncm": "9006.40.00",
+    "mva": "70",
+    "descricao": "Câmeras fotográficas para filmes de revelação e copiagem instantâneas"
+  },
+  {
+    "ncm": "9019.10.00",
+    "mva": "70",
+    "descricao": "Aparelhos de massagem"
+  },
+  {
+    "ncm": "9032.89.11",
+    "mva": "70",
+    "descricao": "Reguladores de voltagem eletrônicos"
+  },
+  {
+    "ncm": "9504.50.00",
+    "mva": "32",
+    "descricao": "Consoles e máquinas de jogos de vídeo, exceto os classificados na subposição 9504.30"
+  },
+  {
+    "ncm": "8214.90",
+    "mva": "70",
+    "descricao": "Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depilar, e suas partes"
+  },
+  {
+    "ncm": "8510",
+    "mva": "70",
+    "descricao": "Aparelhos ou máquinas de barbear, máquinas de cortar o cabelo ou de tosquiar e aparelhos de depilar, e suas partes"
+  },
+  {
+    "ncm": "8414.5",
+    "mva": "70",
+    "descricao": "Ventiladores, exceto os de uso agrícola e do CEST 21.088.01"
+  },
+  {
+    "ncm": "8414.60.00",
+    "mva": "70",
+    "descricao": "Coifas com dimensão horizontal máxima não superior 40a 120 cm"
+  },
+  {
+    "ncm": "8415.10",
+    "mva": "40",
+    "descricao": "Máquinas e aparelhos de ar condicionado contendo um ventilador motorizado e dispositivos próprios para modificar a temperatura e a umidade, incluídos as máquinas e aparelhos em que a umidade não seja regulável separadamente"
+  },
+  {
+    "ncm": "8415.8",
+    "mva": "40",
+    "descricao": "Máquinas e aparelhos de ar condicionado contendo um ventilador motorizado e dispositivos próprios para modificar a temperatura e a umidade, incluídos as máquinas e aparelhos em que a umidade não seja regulável separadamente"
+  },
+  {
+    "ncm": "8415.10.11",
+    "mva": "40",
+    "descricao": "Aparelhos de ar-condicionado tipo Split System (sistema com elementos separados) com unidade externa e interna"
+  },
+  {
+    "ncm": "8415.10.19",
+    "mva": "40",
+    "descricao": "Aparelhos de ar-condicionado com capacidade inferior ou igual a 30.000 frigorias/hora"
+  },
+  {
+    "ncm": "8415.10.90",
+    "mva": "40",
+    "descricao": "Aparelhos de ar-condicionado com capacidade acima de 30.000 frigorias/hora"
+  },
+  {
+    "ncm": "8415.90.10",
+    "mva": "40",
+    "descricao": "Unidades evaporadoras (internas) de aparelho de ar- condicionado do tipo Split System (sistema com elementos separados), com capacidade inferior ou igual a 30.000 frigorias/hora"
+  },
+  {
+    "ncm": "8415.90.20",
+    "mva": "40",
+    "descricao": "Unidades condensadoras (externas) de aparelho de ar- condicionado do tipo Split System (sistema com elementos separados), com capacidade inferior ou igual a 30.000 frigorias/hora"
+  },
+  {
+    "ncm": "8421.21.00",
+    "mva": "70",
+    "descricao": "Aparelhos elétricos para filtrar ou depurar água (purificadores de água refrigerados), exceto os itens classificados no CEST 21.098.01"
+  },
+  {
+    "ncm": "8467.21.00",
+    "mva": "70",
+    "descricao": "Furadeiras elétricas"
+  },
+  {
+    "ncm": "8516.31.00",
+    "mva": "70",
+    "descricao": "Secadores de cabelo"
+  },
+  {
+    "ncm": "8516.32.00",
+    "mva": "70",
+    "descricao": "Outros aparelhos para arranjos do cabelo"
+  },
+  {
+    "ncm": "8527",
+    "mva": "33.8",
+    "descricao": "Aparelhos receptores para radiodifusão, mesmo combinados num mesmo invólucro, com um aparelho de gravação ou de reprodução de som, ou com um relógio, exceto os classificados na posição 8527.1, 8527.2 e 8527.9 que sejam de uso automotivo"
+  },
+  {
+    "ncm": "8415.90.90",
+    "mva": "40",
+    "descricao": "Outras partes para máquinas e aparelhos de ar- condicionado que contenham um ventilador motorizado e dispositivos próprios para modificar a temperatura e a umidade, incluindo as máquinas e aparelhos em que a umidade não seja regulável separadamente"
+  },
+  {
+    "ncm": "8525.89.1",
+    "mva": "70",
+    "descricao": "Câmeras de televisão"
+  },
+  {
+    "ncm": "8423.10.00",
+    "mva": "70",
+    "descricao": "Balanças de uso doméstico"
+  },
+  {
+    "ncm": "8517",
+    "mva": "40",
+    "descricao": "Aparelhos elétricos para telefonia; outros aparelhos para transmissão ou recepção de voz, imagens ou outros dados, incluídos os aparelhos para comunicação em redes por fio ou redes sem fio (tal como uma rede local (LAN) ou uma rede de área estendida (WAN), incluídas suas partes, exceto os de uso automotivo e os classificados nos códigos 8517.62.51, 8517.62.52 e 8517.62.53"
+  },
+  {
+    "ncm": "8543.70.92",
+    "mva": "70",
+    "descricao": "Eletrificadores de cercas eletrônicos"
+  },
+  {
+    "ncm": "9030.3",
+    "mva": "70",
+    "descricao": "Aparelhos e instrumentos para medida ou controle da tensão, intensidade, resistência ou da potência, sem dispositivo registrador; exceto os de uso automotivo"
+  },
+  {
+    "ncm": "9030.89",
+    "mva": "70",
+    "descricao": "Analisadores lógicos de circuitos digitais, de espectro de frequência, frequencímetros, fasímetros, e outros instrumentos e aparelhos de controle de grandezas elétricas e detecção"
+  },
+  {
+    "ncm": "9107.00",
+    "mva": "70",
+    "descricao": "Interruptores horários e outros aparelhos que permitam acionar um mecanismo em tempo determinado, munidos de maquinismo de aparelhos de relojoaria ou de motor síncrono"
+  },
+  {
+    "ncm": "9405",
+    "mva": "70",
+    "descricao": "Aparelhos de iluminação (incluídos os projetores) e suas partes, não especificados nem compreendidos em outras posições; anúncios, cartazes ou tabuletas e placas indicadoras luminosos, e artigos semelhantes, contendo uma fonte luminosa fixa permanente, e suas partes não especificadas nem compreendidas em outras posições, com exceção dos itens classificados nos CEST 21.123.00, 21.124.00 e 21.125.00"
+  },
+  {
+    "ncm": "9405.1",
+    "mva": "70",
+    "descricao": "Lustres e outros aparelhos elétricos de iluminação, próprios para serem suspensos ou fixados no teto ou na parede, exceto os dos tipos utilizados na iluminação pública; e suas partes"
+  },
+  {
+    "ncm": "9405.9",
+    "mva": "70",
+    "descricao": "Lustres e outros aparelhos elétricos de iluminação, próprios para serem suspensos ou fixados no teto ou na parede, exceto os dos tipos utilizados na iluminação pública; e suas partes"
+  },
+  {
+    "ncm": "9405.2",
+    "mva": "70",
+    "descricao": "Abajures de cabeceiras, de escritório e lampadários de interior, elétricos e suas partes"
+  },
+  {
+    "ncm": "9405.4",
+    "mva": "70",
+    "descricao": "Outras luminárias e aparelhos de iluminação, elétricos, e suas partes"
+  },
+  {
+    "ncm": "2309",
+    "mva": "46",
+    "descricao": "Ração tipo \"pet\" para animais domésticos"
+  },
+  {
+    "ncm": "2105.00",
+    "mva": "70",
+    "descricao": "Sorvetes de qualquer espécie"
+  },
+  {
+    "ncm": "1806",
+    "mva": "70",
+    "descricao": "Preparados para fabricação de sorvete em máquina"
+  },
+  {
+    "ncm": "1901",
+    "mva": "70",
+    "descricao": "Preparados para fabricação de sorvete em máquina"
+  },
+  {
+    "ncm": "2106",
+    "mva": "70",
+    "descricao": "Preparados para fabricação de sorvete em máquina"
+  },
+  {
+    "ncm": "3208",
+    "mva": "35",
+    "descricao": "Tintas, vernizes"
+  },
+  {
+    "ncm": "3209",
+    "mva": "35",
+    "descricao": "Tintas, vernizes"
+  },
+  {
+    "ncm": "3210.00",
+    "mva": "35",
+    "descricao": "Tintas, vernizes"
+  },
+  {
+    "ncm": "2821",
+    "mva": "35",
+    "descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10"
+  },
+  {
+    "ncm": "3204.17.00",
+    "mva": "35",
+    "descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10"
+  },
+  {
+    "ncm": "3206",
+    "mva": "35",
+    "descricao": "Xadrez e pós assemelhados, em embalagem de conteúdo inferior ou igual a 1 kg, exceto pigmentos à base de dióxido de titânio classificados no código NCM 3206.11.10"
+  },
+  {
+    "ncm": "3204",
+    "mva": "50",
+    "descricao": "Corantes para aplicação em bases, tintas e vernizes"
+  },
+  {
+    "ncm": "3205.00.00",
+    "mva": "50",
+    "descricao": "Corantes para aplicação em bases, tintas e vernizes"
+  },
+  {
+    "ncm": "3212",
+    "mva": "50",
+    "descricao": "Corantes para aplicação em bases, tintas e vernizes"
+  },
+  {
+    "ncm": "8702.10.00",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, unicamente com motor de pistão, de ignição por compressão (diesel ou semidiesel), com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³"
+  },
+  {
+    "ncm": "8702.40.90",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, unicamente com motor elétrico para propulsão, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³"
+  },
+  {
+    "ncm": "8703.21.00",
+    "mva": "30",
+    "descricao": "Automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada não superior a 1000 cm³"
+  },
+  {
+    "ncm": "8703.22.10",
+    "mva": "30",
+    "descricao": "Automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada superior a 1000 cm³, mas não superior a 1500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o condutor, exceto carro celular"
+  },
+  {
+    "ncm": "8703.22.90",
+    "mva": "30",
+    "descricao": "Outros automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada superior a 1000 cm³, mas não superior a 1500 cm³, exceto carro celular"
+  },
+  {
+    "ncm": "8703.23.10",
+    "mva": "30",
+    "descricao": "Automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada superior a 1500 cm³, mas não superior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o condutor, exceto carro celular, carro funerário e automóveis de corrida"
+  },
+  {
+    "ncm": "8703.23.90",
+    "mva": "30",
+    "descricao": "Outros automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada superior a 1500 cm³, mas não superior a 3000 cm³, exceto carro celular, carro funerário e automóveis de corrida"
+  },
+  {
+    "ncm": "8703.24.10",
+    "mva": "30",
+    "descricao": "Automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada superior a 3000 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o condutor, exceto carro celular, carro funerário e automóveis de corrida"
+  },
+  {
+    "ncm": "8703.24.90",
+    "mva": "30",
+    "descricao": "Outros automóveis unicamente com motor de pistão alternativo de ignição por centelha (faísca*), de cilindrada superior a 3000 cm³, exceto carro celular, carro funerário e automóveis de corrida"
+  },
+  {
+    "ncm": "8703.32.10",
+    "mva": "30",
+    "descricao": "Automóveis unicamente com motor diesel ou semidiesel, de cilindrada superior a 1500 cm³, mas não superior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o condutor, exceto ambulância, carro celular e carro funerário"
+  },
+  {
+    "ncm": "8703.32.90",
+    "mva": "30",
+    "descricao": "Outros automóveis unicamente com motor diesel ou semidiesel, de cilindrada superior a 1500 cm³, mas não superior a 2500 cm³, exceto ambulância, carro celular e carro funerário"
+  },
+  {
+    "ncm": "8703.33.10",
+    "mva": "30",
+    "descricao": "Automóveis unicamente com motor diesel ou semidiesel, de cilindrada superior a 2500 cm³, com capacidade de transporte de pessoas sentadas inferior ou igual a 6, incluído o condutor, exceto carro celular e carro funerário"
+  },
+  {
+    "ncm": "8703.33.90",
+    "mva": "30",
+    "descricao": "Outros automóveis unicamente com motor diesel ou semidiesel, de cilindrada superior a 2500 cm³, exceto carro celular e carro funerário"
+  },
+  {
+    "ncm": "8704.21.10",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, chassis com motor diesel ou semidiesel e cabina, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.21.20",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, com motor diesel ou semidiesel, com caixa basculante, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.21.30",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, frigoríficos ou isotérmicos, com motor diesel ou semidiesel, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.21.90",
+    "mva": "30",
+    "descricao": "Outros veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, com motor diesel ou semidiesel, exceto carro-forte para transporte de valores e caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.31.10",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, com motor a explosão, chassis e cabina, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.31.20",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, com motor explosão com caixa basculante, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.31.30",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, frigoríficos ou isotérmicos com motor explosão, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.31.90",
+    "mva": "30",
+    "descricao": "Outros veículos automóveis para transporte de mercadorias, de peso em carga máxima não superior a 5 toneladas, com motor a explosão, exceto carro-forte para transporte de valores e caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8702.20.00",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão, de ignição por compressão (diesel ou semidiesel) e um motor elétrico, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³"
+  },
+  {
+    "ncm": "8702.30.00",
+    "mva": "30",
+    "descricao": "Veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com motor de pistão alternativo, de ignição por centelha (faísca) e um motor elétrico, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³"
+  },
+  {
+    "ncm": "8702.90.00",
+    "mva": "30",
+    "descricao": "Outros veículos automóveis para transporte de 10 pessoas ou mais, incluindo o motorista, com volume interno de habitáculo, destinado a passageiros e motorista, superior a 6 m³, mas inferior a 9 m³"
+  },
+  {
+    "ncm": "8703.40.00",
+    "mva": "30",
+    "descricao": "Automóveis equipados para propulsão, simultaneamente, com um motor de pistão alternativo de ignição por centelha (faísca*) e um motor elétrico, exceto os suscetíveis de serem carregados por conexão a uma fonte externa de energia elétrica, o carro celular e o carro funerário"
+  },
+  {
+    "ncm": "8703.50.00",
+    "mva": "30",
+    "descricao": "Automóveis equipados para propulsão, simultaneamente, com um motor de pistão por compressão (diesel ou semidiesel) e um motor elétrico, exceto os suscetíveis de serem carregados por conexão a uma fonte externa de energia elétrica, exceto o carro celular e o carro funerário"
+  },
+  {
+    "ncm": "8703.60.00",
+    "mva": "30",
+    "descricao": "Automóveis equipados para propulsão, simultaneamente, com um motor de pistão alternativo de ignição por centelha (faísca*) e um motor elétrico, suscetíveis de serem carregados por conexão a uma fonte externa de energia elétrica, exceto o carro celular e o carro funerário"
+  },
+  {
+    "ncm": "8703.70.00",
+    "mva": "30",
+    "descricao": "Automóveis equipados para propulsão, simultaneamente, com um motor de pistão por compressão (diesel ou semidiesel) e um motor elétrico, suscetíveis de serem carregados por conexão a uma fonte externa de energia elétrica, exceto o carro celular e o carro funerário"
+  },
+  {
+    "ncm": "8703.80.00",
+    "mva": "30",
+    "descricao": "Outros veículos, equipados unicamente com motor elétrico para propulsão"
+  },
+  {
+    "ncm": "8704.41.00",
+    "mva": "30",
+    "descricao": "Outros veículos para transportes de mercadorias equipados para propulsão, simultaneamente, com motor de pistão de ignição por compressão (diesel ou semidiesel) e motor elétrico de peso em carga máxima (bruto) não superior a 5 toneladas, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8704.51.00",
+    "mva": "30",
+    "descricao": "Outros veículos para transportes de mercadorias equipados para propulsão, simultaneamente, com motor de pistão de ignição por centelha (faísca) e motor elétrico de peso em carga máxima (bruto) não superior a 5 toneladas, exceto caminhão de peso em carga máxima superior a 3,9 toneladas"
+  },
+  {
+    "ncm": "8711",
+    "mva": "34",
+    "descricao": "Motocicletas (incluídos os ciclomotores) e outros ciclos equipados com motor auxiliar, mesmo com carro lateral, exceto os classificados no CEST 26.001.01; carros laterais."
+  },
+  {
+    "ncm": "9603.29.00",
+    "mva": "50",
+    "descricao": "Escovas e pincéis de barba, escovas para cabelos, para cílios ou para unhas e outras escovas de toucador de pessoas"
+  },
+  {
+    "ncm": "9616.10.00",
+    "mva": "50",
+    "descricao": "Vaporizadores de toucador, suas armações e cabeças de armações"
+  },
+  {
+    "ncm": "4202.1",
+    "mva": "50",
+    "descricao": "Malas e maletas de toucador"
+  },
+  {
+    "ncm": "3926.20.00",
+    "mva": "50",
+    "descricao": "Vestuário e seus acessórios, de plásticos, inclusive luvas"
+  },
+  {
+    "ncm": "3926.40.00",
+    "mva": "50",
+    "descricao": "Estatuetas e outros objetos de ornamentação, de plásticos"
+  },
+  {
+    "ncm": "4202.22.10",
+    "mva": "50",
+    "descricao": "Bolsas de folhas de plástico"
+  },
+  {
+    "ncm": "4202.22.20",
+    "mva": "50",
+    "descricao": "Bolsas de matérias têxteis"
+  },
+  {
+    "ncm": "4202.29.00",
+    "mva": "50",
+    "descricao": "Bolsas de outras matérias"
+  },
+  {
+    "ncm": "4202.39.00",
+    "mva": "50",
+    "descricao": "Artigos de bolsos/bolsas, de outras matérias"
+  },
+  {
+    "ncm": "4202.92.00",
+    "mva": "50",
+    "descricao": "Outros artefatos, de folhas de plásticos ou matérias têxteis"
+  },
+  {
+    "ncm": "4202.99.00",
+    "mva": "50",
+    "descricao": "Outros artefatos, de outras matérias"
+  },
+  {
+    "ncm": "4819.20.00",
+    "mva": "50",
+    "descricao": "Caixas e cartonagens, dobráveis, de papel/cartão, não ondulados"
+  },
+  {
+    "ncm": "4819.40.00",
+    "mva": "50",
+    "descricao": "Outros sacos, bolsas e cartuchos, de papel ou cartão"
+  },
+  {
+    "ncm": "4821.10.00",
+    "mva": "50",
+    "descricao": "Etiquetas de papel ou cartão, impressas"
+  },
+  {
+    "ncm": "4911.10.90",
+    "mva": "50",
+    "descricao": "Outros impressos publicitários, catálogos comerciais e semelhantes"
+  },
+  {
+    "ncm": "6115.99.00",
+    "mva": "50",
+    "descricao": "Outras meias de malha de outras matérias têxteis"
+  },
+  {
+    "ncm": "6217.10.00",
+    "mva": "50",
+    "descricao": "Outros acessórios confeccionados, de vestuário"
+  },
+  {
+    "ncm": "6302.60.00",
+    "mva": "50",
+    "descricao": "Roupas de toucador/cozinha, de tecidos atoalhados de algodão"
+  },
+  {
+    "ncm": "6307.90.90",
+    "mva": "50",
+    "descricao": "Outros artefatos têxteis confeccionados"
+  },
+  {
+    "ncm": "6506.99.00",
+    "mva": "50",
+    "descricao": "Chapéus e outros artefatos de outras matérias, exceto de malha"
+  },
+  {
+    "ncm": "9505.90.00",
+    "mva": "50",
+    "descricao": "Artigos para outras festas, carnaval ou outros divertimentos"
+  },
+  {
+    "ncm": "34",
+    "mva": "50",
+    "descricao": "Outros produtos cosméticos e de higiene pessoal não relacionados em outros itens deste anexo"
+  },
+  {
+    "ncm": "96",
+    "mva": "50",
+    "descricao": "Outros artigos destinados a cuidados pessoais não relacionados em outros itens deste anexo"
+  },
+  {
+    "ncm": "91",
+    "mva": "50",
+    "descricao": "Acessórios (por exemplo, bijuterias, relógios, óculos de sol, bolsas, mochilas, frasqueiras, carteiras, porta- cartões, porta- documentos, porta-celulares e embalagens presenteáveis (por exemplo, caixinhas de papel), entre outros itens assemelhados)"
+  }
+]
